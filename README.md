@@ -2,7 +2,7 @@
 
 A reference guide for lighting programmers translating between **grandMA2** and **ETC Eos** consoles — and vice versa.
 
-Written by [Brian Abbott]
+Written by Brian Abbott
 
 ## About
 
@@ -12,7 +12,7 @@ This guide started as a personal set of notes comparing common commands and conc
 
 The guide is available as a searchable website with dark/light mode:
 
-**[View the guide →](https://brianabbott.github.io/grandma2-for-eos/)**
+**[View the guide →](https://br1an-c0des.github.io/grandma2-for-eos/)**
 
 ## Local Development
 
