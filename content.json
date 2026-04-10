@@ -1,0 +1,9036 @@
+[
+  {
+    "title": "Introduction",
+    "page": 2,
+    "lines": [
+      [
+        {
+          "text": "This guide started as a small note on my phone several years ago, when I decided to start "
+        }
+      ],
+      [
+        {
+          "text": "learning the "
+        },
+        {
+          "text": "grandMA",
+          "color": "ma2"
+        },
+        {
+          "text": " on my own.  I had become proficient in using "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " consoles, but felt like I was "
+        }
+      ],
+      [
+        {
+          "text": "completely starting over when it came to learning "
+        },
+        {
+          "text": "grandMA",
+          "color": "ma2"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "I began scouring the online manual, watching tutorials, and just playing around with "
+        },
+        {
+          "text": "onPC.",
+          "color": "ma2"
+        },
+        {
+          "text": " I "
+        }
+      ],
+      [
+        {
+          "text": "slowly started to realized that the two consoles weren’t really all that different at their core.  Many of "
+        }
+      ],
+      [
+        {
+          "text": "the concepts and actions are extremely similar, just using different words and syntax. I started to "
+        }
+      ],
+      [
+        {
+          "text": "keep notes on common "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " commands and their "
+        },
+        {
+          "text": "grandMA2 ",
+          "color": "ma2"
+        },
+        {
+          "text": "equivalent, and suddenly that big ‘ole "
+        }
+      ],
+      [
+        {
+          "text": "grandMA2 ",
+          "color": "ma2"
+        },
+        {
+          "text": "didn’t look nearly as intimidating as it did before.  I discovered that nearly all of the "
+        }
+      ],
+      [
+        {
+          "text": "functions in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " can be accomplished on the "
+        },
+        {
+          "text": "grandMA2",
+          "color": "ma2"
+        },
+        {
+          "text": " and vice versa (as well as a majority of "
+        }
+      ],
+      [
+        {
+          "text": "other popular consoles).  It’s just a matter of knowing the words and commands to use and in "
+        }
+      ],
+      [
+        {
+          "text": "which order. "
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Because this guide was written from such a perspective, the majority of the comparisons and "
+        }
+      ],
+      [
+        {
+          "text": "descriptions are more geared towards those going from "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "grandMA2",
+          "color": "ma2"
+        },
+        {
+          "text": ".  However, this is not to "
+        }
+      ],
+      [
+        {
+          "text": "say that the guide couldn’t be used in the opposite manner as well, though some of the "
+        }
+      ],
+      [
+        {
+          "text": "explanations and examples may be less thorough. "
+        }
+      ],
+      [
+        {
+          "text": "It is assumed that the reader/programmer has a general knowledge and understanding of "
+        }
+      ],
+      [
+        {
+          "text": "the basic philosophies of lighting control, including: "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Tracking vs Cue Only  "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LTP (Latest Takes Precedence) vs HTP (Highest Takes Precedence)  "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Priorities and Background states  "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Referenced Data vs. Absolute Data  "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Basic functions of "
+        },
+        {
+          "text": "ETC Eos",
+          "color": "eos"
+        },
+        {
+          "text": " consoles (or "
+        },
+        {
+          "text": "grandMA2",
+          "color": "ma2"
+        },
+        {
+          "text": " consoles).\t"
+        }
+      ],
+      [
+        {
+          "text": "While the guide is loosely structured in a way that can be read start to finish as a full tutorial, "
+        }
+      ],
+      [
+        {
+          "text": "it is probably more useful as a reference.   "
+        }
+      ],
+      [
+        {
+          "text": "As such, you are strongly encouraged to use your device’s find/search function to ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "search for whatever terms or commands your are looking for, either ",
+          "bold": true
+        },
+        {
+          "text": "Eos",
+          "color": "eos",
+          "bold": true
+        },
+        {
+          "text": " or ",
+          "bold": true
+        },
+        {
+          "text": "MA2",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "color": "ma2",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "2"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Tips for reading the guide",
+    "page": 3,
+    "lines": [
+      [
+        {
+          "text": "Orange = gMA2 ",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": "command, key, or term (i.e. “",
+          "bold": true
+        },
+        {
+          "text": "Please",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": "”",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": ") ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "Blue = Eos",
+          "color": "eos",
+          "bold": true
+        },
+        {
+          "text": " command, key, or term (i.e “",
+          "bold": true
+        },
+        {
+          "text": "Enter”",
+          "color": "eos",
+          "bold": true
+        },
+        {
+          "text": ") ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "{key combo or softkey} = some commands are accessed with a combination of key ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "presses. ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "|| = Used to separate multiple commands in sequence.   ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "i.e. “",
+          "bold": true
+        },
+        {
+          "text": "Blind || Preset 1 thru 12 || Chan 4 At 30",
+          "color": "eos",
+          "bold": true
+        },
+        {
+          "text": "” ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "i.e. “",
+          "bold": true
+        },
+        {
+          "text": "Fixture 34 At Preset 0.13 || Park Fixture 34",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": "\" ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "3"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "A few core concepts about MA2",
+    "page": 4,
+    "lines": []
+  },
+  {
+    "title": "SYNTAX ORDER",
+    "page": 4,
+    "lines": [
+      [
+        {
+          "text": "In general (though not necessarily true for all commands) "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " operates with the syntax of "
+        }
+      ],
+      [
+        {
+          "text": "[Action] [Object/Target] At [Object/Target]",
+          "color": "ma2"
+        },
+        {
+          "text": "  "
+        }
+      ],
+      [
+        {
+          "text": "Whereas "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " generally operates (though also not true for all commands) with the syntax "
+        }
+      ],
+      [
+        {
+          "text": "[Object/Target] [Action] [Object/Target]",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "For Example: "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Move Preset 4.2 At 4.3",
+          "color": "ma2"
+        },
+        {
+          "text": "” ="
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "“"
+        },
+        {
+          "text": "Color Palette 2 Move To Color Palette 3",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Label Cue 2",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Cue 2 Label",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "[Action] [Target]",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "[Target] [Action] ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Don’t worry if this doesn’t make sense immediately, and don’t get caught up on it as some "
+        }
+      ],
+      [
+        {
+          "text": "commands don’t always follow this structure. Just remember that if a command you’re "
+        }
+      ],
+      [
+        {
+          "text": "trying on "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " isn’t working like you’d expect on "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ", try reversing the syntax order."
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ]
+    ]
+  },
+  {
+    "title": "CHANNEL SELECTION",
+    "page": 4,
+    "lines": [
+      [
+        {
+          "text": "On "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": ",",
+          "color": "ma2"
+        },
+        {
+          "text": " channel selection is independent of the command line.  "
+        }
+      ],
+      [
+        {
+          "text": "Meaning once you've selected channels, the selection will remain regardless of what is "
+        }
+      ],
+      [
+        {
+          "text": "typed into the command line until you make a new selection or clear the selection ("
+        },
+        {
+          "text": "Clear",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "key one tap).   "
+        }
+      ],
+      [
+        {
+          "text": "That is not to say, however, that channel/fixture selections cannot be apart of SOME "
+        }
+      ],
+      [
+        {
+          "text": "commands. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Fixture 34 At Preset 4.34",
+          "color": "ma2"
+        },
+        {
+          "text": "” is the equivalent of making a new selection AND specifying a "
+        }
+      ],
+      [
+        {
+          "text": "new value. "
+        }
+      ],
+      [
+        {
+          "text": "In general, channel selections are NOT required for most commands because again "
+        }
+      ],
+      [
+        {
+          "text": "channel selection is independent of command line and is assumed as the target of most "
+        }
+      ],
+      [
+        {
+          "text": "commands until otherwise cleared or specified. "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "4"
+        }
+      ],
+      [
+        {
+          "text": "On "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " every channel-related command requires a channel selection to accompany it.  "
+        }
+      ],
+      [
+        {
+          "text": "Depending on the order of operations, the software will automatically input the previous "
+        }
+      ],
+      [
+        {
+          "text": "selection to the command line (i.e pressing "
+        },
+        {
+          "text": "At",
+          "color": "eos"
+        },
+        {
+          "text": " after terminated command re-types previous "
+        }
+      ],
+      [
+        {
+          "text": "selection), making it fairly easy and quick to type new commands.  And thus the extremely "
+        }
+      ],
+      [
+        {
+          "text": "important and useful command of "
+        },
+        {
+          "text": "Select Last",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "‣"
+        }
+      ],
+      [
+        {
+          "text": "Selection Syntax: “"
+        },
+        {
+          "text": "Fixture 304 Please",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 304 Enter",
+          "color": "eos"
+        },
+        {
+          "text": "” = Channels/Fixtures "
+        }
+      ],
+      [
+        {
+          "text": "Selected "
+        }
+      ],
+      [
+        {
+          "text": "‣"
+        }
+      ],
+      [
+        {
+          "text": "Then “"
+        },
+        {
+          "text": "At 40 Please",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Select Last At 40 Enter",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ]
+    ]
+  },
+  {
+    "title": "THE “PROGRAMMER”",
+    "page": 5,
+    "lines": [
+      [
+        {
+          "text": "The \""
+        },
+        {
+          "text": "Programmer",
+          "color": "ma2"
+        },
+        {
+          "text": "\" is the term used to describe the source of all "
+        },
+        {
+          "text": "Manual",
+          "color": "eos"
+        },
+        {
+          "text": " data (anything in "
+        }
+      ],
+      [
+        {
+          "text": "red).  If a fixture or attribute is in the \""
+        },
+        {
+          "text": "programmer",
+          "color": "ma2"
+        },
+        {
+          "text": "\" it means it is being manually controlled "
+        }
+      ],
+      [
+        {
+          "text": "by commands (not stored in any cue/playback/sequence/executor) "
+        }
+      ],
+      [
+        {
+          "text": "There are two “states” of manual programmer values: "
+        },
+        {
+          "text": "Active",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "DeActive",
+          "color": "ma2"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "Active",
+          "color": "ma2"
+        },
+        {
+          "text": " means \""
+        },
+        {
+          "text": "Manual",
+          "color": "eos"
+        },
+        {
+          "text": "\" "
+        },
+        {
+          "text": "and",
+          "bold": true
+        },
+        {
+          "text": " available for record/store  "
+        }
+      ],
+      [
+        {
+          "text": "(In "
+        },
+        {
+          "text": "Fixture Shee",
+          "color": "ma2"
+        },
+        {
+          "text": "t",
+          "color": "ma2"
+        },
+        {
+          "text": ": red background and red text) "
+        }
+      ],
+      [
+        {
+          "text": "DeActive",
+          "color": "ma2"
+        },
+        {
+          "text": " also means \""
+        },
+        {
+          "text": "Manual",
+          "color": "eos"
+        },
+        {
+          "text": "\" but "
+        },
+        {
+          "text": "not",
+          "bold": true
+        },
+        {
+          "text": " available for record/store (like \""
+        },
+        {
+          "text": "make null",
+          "color": "eos"
+        },
+        {
+          "text": "” in "
+        },
+        {
+          "text": "Live",
+          "color": "eos"
+        },
+        {
+          "text": ")  "
+        }
+      ],
+      [
+        {
+          "text": "(In "
+        },
+        {
+          "text": "Fixture Sheet:",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "only red text, no red background)  "
+        }
+      ],
+      [
+        {
+          "text": "So if all of your current manual values in the programmer are "
+        },
+        {
+          "text": "DeActive",
+          "color": "ma2"
+        },
+        {
+          "text": ", and you try to "
+        },
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "a cue or preset, nothing would actually be stored because the values are not "
+        },
+        {
+          "text": "Active",
+          "color": "ma2"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "Activate",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Please Please",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "double tap group or Preset Type",
+          "color": "ma2"
+        },
+        {
+          "text": "} is essentially \""
+        },
+        {
+          "text": "Make Manual",
+          "color": "eos"
+        },
+        {
+          "text": "\" + "
+        }
+      ],
+      [
+        {
+          "text": "making available for store actions "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Please Please",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "double tap group or preset type",
+          "color": "ma2"
+        },
+        {
+          "text": "} a 2nd time will "
+        },
+        {
+          "text": "DeActivate, ",
+          "color": "ma2"
+        },
+        {
+          "text": "but will "
+        }
+      ],
+      [
+        {
+          "text": "remain in the programmer. "
+        }
+      ],
+      [
+        {
+          "text": "Both active and inactive channels/fixtures come from the “"
+        },
+        {
+          "text": "Programmer",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "By default, any "
+        },
+        {
+          "text": "Active",
+          "color": "ma2"
+        },
+        {
+          "text": " data will become "
+        },
+        {
+          "text": "DeActive",
+          "color": "ma2"
+        },
+        {
+          "text": " after a store command.  Meaning that if "
+        }
+      ],
+      [
+        {
+          "text": "you wish to store the data again, you must re-"
+        },
+        {
+          "text": "Activate",
+          "color": "ma2"
+        },
+        {
+          "text": " it.  (These are all settings that can be "
+        }
+      ],
+      [
+        {
+          "text": "changed in "
+        },
+        {
+          "text": "Store Options",
+          "color": "ma2"
+        },
+        {
+          "text": ") "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "5"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "FIXTURE # VS CHANNEL #",
+    "page": 6,
+    "lines": [
+      [
+        {
+          "text": "gMA2 allows for both a Fixture # and Channel # simultaneously for every patch object.  This "
+        }
+      ],
+      [
+        {
+          "text": "does "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " delineate what type of object can be patched to either number.  Meaning any "
+        }
+      ],
+      [
+        {
+          "text": "object can contain one or the other or both. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. A moving light could be given a Channel #, and a simple dimmer could be given a "
+        }
+      ],
+      [
+        {
+          "text": "Fixture #, or vice versa.    "
+        }
+      ],
+      [
+        {
+          "text": "The only delineations these two numbers make is whether the object shows up in the "
+        }
+      ],
+      [
+        {
+          "text": "Channel Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": ", the "
+        },
+        {
+          "text": "Fixture Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": ", or both, and also whether the object is accessible via the "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Fixture",
+          "color": "ma2"
+        },
+        {
+          "text": "} key, the {"
+        },
+        {
+          "text": "Channel",
+          "color": "ma2"
+        },
+        {
+          "text": "} key, or both.   "
+        }
+      ],
+      [
+        {
+          "text": "i.e. Fixture 20 and Channel 20 "
+        },
+        {
+          "text": "could",
+          "bold": true
+        },
+        {
+          "text": " mean two different separate objects. "
+        }
+      ],
+      [
+        {
+          "text": "For the most part, however, many programmers keep these numbers the same for all patch "
+        }
+      ],
+      [
+        {
+          "text": "objects, or use just one or the other, to avoid confusion.  So for example, your 20 Mac "
+        }
+      ],
+      [
+        {
+          "text": "Vipers could have Fixture #’s of 1-20, as well as Channel #’s of 1-20.  Or just Fixture #’s only "
+        }
+      ],
+      [
+        {
+          "text": "and no Channel #’s. "
+        }
+      ],
+      [
+        {
+          "text": "But, this can also open up a lot of customization as well.  For example, to delineate between "
+        }
+      ],
+      [
+        {
+          "text": "simple dimmers (Channels 1-24) vs moving lights (Fixtures 1-10).  Or separate channeling "
+        }
+      ],
+      [
+        {
+          "text": "schemes for designer and programmer to reference.  Or to easily delineate what objects "
+        }
+      ],
+      [
+        {
+          "text": "show up on the fixture sheet vs the channel sheet.   "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "6"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "ORGANIZATION OF ATTRIBUTES",
+    "page": 7,
+    "lines": [
+      [
+        {
+          "text": "There are 3 levels of organization for attributes of a Fixture/Channel "
+        }
+      ],
+      [
+        {
+          "text": "PresetType",
+          "color": "ma2"
+        },
+        {
+          "text": " -> "
+        },
+        {
+          "text": "Feature",
+          "color": "ma2"
+        },
+        {
+          "text": " -> "
+        },
+        {
+          "text": "Attribute",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "PresetType",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "≅"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Encoder Group",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Feature",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "≅"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Encoder Group Page",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Attribute",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Attribute/Parameter",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "These are all keywords which can be used as part of a command. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Off PresetType 2",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "On Attribute “Dim”",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Feature 1.2 At 50",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "All "
+        },
+        {
+          "text": "PresetTypes",
+          "color": "ma2"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Features",
+          "color": "ma2"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Attributes",
+          "color": "ma2"
+        },
+        {
+          "text": " can be identified either with numbers ("
+        },
+        {
+          "text": "PresetType ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "PresetType “Position”",
+          "color": "ma2"
+        },
+        {
+          "text": ") or with words in quotes ("
+        },
+        {
+          "text": "Attribute “Dim”",
+          "color": "ma2"
+        },
+        {
+          "text": " specifies the Dimmer "
+        }
+      ],
+      [
+        {
+          "text": "Attribute) "
+        }
+      ],
+      [
+        {
+          "text": "PresetType",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "MA + Preset",
+          "color": "ma2"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "Feature ",
+          "color": "ma2"
+        },
+        {
+          "text": "(not accessible via hard keys) "
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "Attribute",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Preset Preset",
+          "color": "ma2"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "You can also tap any of these objects on the "
+        },
+        {
+          "text": "Encoder Bar",
+          "color": "ma2"
+        },
+        {
+          "text": " in place of typing it out "
+        }
+      ],
+      [
+        {
+          "text": "specifically in a command line. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. Tap on the “Position” Preset Button in encoder bar = “"
+        },
+        {
+          "text": "If PresetType “Position”",
+          "color": "ma2"
+        },
+        {
+          "text": "\" "
+        }
+      ],
+      [
+        {
+          "text": "http://help2.malighting.com/Page/grandMA2/keyword_presettype/en/3.3/presettype "
+        }
+      ],
+      [
+        {
+          "text": "http://help2.malighting.com/Page/grandMA2/ws_preset_control_bar/en/3.3 "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "7"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "A NOTE ON WORKFLOW AND COMMANDS",
+    "page": 8,
+    "lines": [
+      [
+        {
+          "text": "It can be useful to understand from the beginning that MA2 is generally designed to be "
+        }
+      ],
+      [
+        {
+          "text": "very touch-screen oriented.  So while the "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " is still a command-line based console like "
+        }
+      ],
+      [
+        {
+          "text": "the "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ", the workflow on the MA2 tends to spend much less time on the keys, and more "
+        }
+      ],
+      [
+        {
+          "text": "time on the touchscreens.  "
+        }
+      ],
+      [
+        {
+          "text": "i.e. Moving "
+        },
+        {
+          "text": "Presets",
+          "color": "ma2"
+        },
+        {
+          "text": " or other pool objects is usually accomplished by pressing the "
+        },
+        {
+          "text": "Move",
+          "color": "ma2"
+        },
+        {
+          "text": " Key, "
+        }
+      ],
+      [
+        {
+          "text": "tapping the object you want to move, and then tapping where you want to move it to. "
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "For the remainder of this guide, anytime any "
+        },
+        {
+          "text": "Object/Target",
+          "color": "ma2"
+        },
+        {
+          "text": " is specified within a "
+        }
+      ],
+      [
+        {
+          "text": "command , it can generally be assumed that you can also tap that specific pool object in "
+        }
+      ],
+      [
+        {
+          "text": "place of typing out the "
+        },
+        {
+          "text": "Object/Target",
+          "color": "ma2"
+        },
+        {
+          "text": " with the keys. "
+        }
+      ],
+      [
+        {
+          "text": "Conversely, all commands in "
+        },
+        {
+          "text": "MA",
+          "color": "ma2"
+        },
+        {
+          "text": " can also be executed "
+        },
+        {
+          "text": "without"
+        },
+        {
+          "text": " any hard key console "
+        }
+      ],
+      [
+        {
+          "text": "presses, by simply typing out the command structure via the standard keyboard on your "
+        }
+      ],
+      [
+        {
+          "text": "computer or under the armrest of the console.  This is "
+        },
+        {
+          "text": "NOT"
+        },
+        {
+          "text": " possible on the "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " console.  "
+        }
+      ],
+      [
+        {
+          "text": "In fact, there are many "
+        },
+        {
+          "text": "keywords",
+          "color": "ma2"
+        },
+        {
+          "text": "/commands within "
+        },
+        {
+          "text": "MA",
+          "color": "ma2"
+        },
+        {
+          "text": " that are actually not even accessible "
+        }
+      ],
+      [
+        {
+          "text": "via HardKeys, and must be typed out on the keyboard. "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "8"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "GENERAL COMMANDS AND TERMS",
+    "page": 9,
+    "lines": [
+      [
+        {
+          "text": "Please",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "Enter ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "A "
+        },
+        {
+          "text": "Please",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Enter",
+          "color": "eos"
+        },
+        {
+          "text": " is required after every command in order to execute it "
+        }
+      ],
+      [
+        {
+          "text": "(From here on out unless otherwise noted, all example commands assume that there is a "
+        }
+      ],
+      [
+        {
+          "text": "Please",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Enter",
+          "color": "eos"
+        },
+        {
+          "text": " at the end)         "
+        }
+      ],
+      [
+        {
+          "text": "("
+        },
+        {
+          "text": "|| ",
+          "bold": true
+        },
+        {
+          "text": "will also indicate a "
+        },
+        {
+          "text": "Please",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Enter",
+          "color": "eos"
+        },
+        {
+          "text": ")"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Oops",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "is "
+        },
+        {
+          "text": "Undo ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Clear",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "does "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " behave the same way as "
+        },
+        {
+          "text": "Clear",
+          "color": "eos"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Clear",
+          "color": "ma2"
+        },
+        {
+          "text": "} = ClearSelection - Clears out the current channel/fixture selection "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Clear Clear",
+          "color": "ma2"
+        },
+        {
+          "text": "} = ClearActive - "
+        },
+        {
+          "text": "DeActivates",
+          "color": "ma2"
+        },
+        {
+          "text": " all fixture/channel data currently in Programmer "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Clear Clear Clear",
+          "color": "ma2"
+        },
+        {
+          "text": "} = ClearAll = "
+        },
+        {
+          "text": "Sneak Enter ",
+          "color": "eos"
+        },
+        {
+          "text": "- Removes all manual data from Programmer"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "Escape",
+          "color": "ma2"
+        },
+        {
+          "text": " is like "
+        },
+        {
+          "text": "Clear",
+          "color": "eos"
+        },
+        {
+          "text": " in regards to command lines "
+        }
+      ],
+      [
+        {
+          "text": "Group",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "Group",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " is essentially "
+        },
+        {
+          "text": "Record…  ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "However",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grandMA",
+          "color": "ma2"
+        },
+        {
+          "text": " is, by default, always in a “"
+        },
+        {
+          "text": "Record Only”",
+          "color": "eos"
+        },
+        {
+          "text": " state. It will only store data that "
+        }
+      ],
+      [
+        {
+          "text": "you've manipulated or "
+        },
+        {
+          "text": "Activated ",
+          "color": "ma2"
+        },
+        {
+          "text": "in the "
+        },
+        {
+          "text": "Programmer",
+          "color": "ma2"
+        },
+        {
+          "text": ", meaning it won't store values that are "
+        }
+      ],
+      [
+        {
+          "text": "already coming from a cue or executor (unless you specifically say otherwise in the \"store "
+        }
+      ],
+      [
+        {
+          "text": "options menu\".  i.e. There is an option to store all output regardless of whether it is manual/"
+        }
+      ],
+      [
+        {
+          "text": "from the programmer) "
+        }
+      ],
+      [
+        {
+          "text": "Press and hold "
+        },
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " to see "
+        },
+        {
+          "text": "Store Options",
+          "color": "ma2"
+        },
+        {
+          "text": " pop up "
+        }
+      ],
+      [
+        {
+          "text": "So, by default, "
+        },
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " is actually more like "
+        },
+        {
+          "text": "Record Only ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "At",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " At ",
+          "color": "eos"
+        },
+        {
+          "text": "for setting intensity or other preset data "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 205 At 60",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 205 At 60",
+          "color": "eos"
+        },
+        {
+          "text": "” = Sets intensity to 60 "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 205 At Preset 0.65",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 205 At Preset 65",
+          "color": "eos"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "At",
+          "color": "ma2"
+        },
+        {
+          "text": " also = "
+        },
+        {
+          "text": "Recall From.",
+          "color": "eos"
+        },
+        {
+          "text": "  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 201 At Fixture 202”",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "= "
+        },
+        {
+          "text": "“Chan 201 Recall From Chan 202” ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 201 At Cue 44",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 201 Recall From Cue 44",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "See section on "
+        },
+        {
+          "text": "Status",
+          "color": "ma2"
+        },
+        {
+          "text": " to include tracked values in your command, as MA2 by default will "
+        }
+      ],
+      [
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " include tracked values when pulling data from other Cues. "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "9"
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "At At",
+          "color": "ma2"
+        },
+        {
+          "text": "} is like \""
+        },
+        {
+          "text": "At Level",
+          "color": "eos"
+        },
+        {
+          "text": "\", the level of which can be specified in Setup.  Default is Full.   "
+        }
+      ],
+      [
+        {
+          "text": "So {"
+        },
+        {
+          "text": "At At",
+          "color": "ma2"
+        },
+        {
+          "text": "}"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "brings current selection to "
+        },
+        {
+          "text": "Full",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "\"..” or “",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "dot",
+          "color": "ma2"
+        },
+        {
+          "text": "}"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "dot",
+          "color": "ma2"
+        },
+        {
+          "text": "}"
+        },
+        {
+          "text": "”",
+          "color": "ma2"
+        },
+        {
+          "text": " is like “"
+        },
+        {
+          "text": "Out",
+          "color": "eos"
+        },
+        {
+          "text": "” — So "
+        },
+        {
+          "text": "“..”",
+          "color": "ma2"
+        },
+        {
+          "text": " brings current selection to 0 "
+        }
+      ],
+      [
+        {
+          "text": "DMX",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Channel Channel",
+          "color": "ma2"
+        },
+        {
+          "text": "} is equivalent of "
+        },
+        {
+          "text": "Address ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "DMX 4.50 At 75",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Address 4/50 At 75",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "Full",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "Full",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "(wouldn’t it be funny if it wasn’t?) "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "10"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "DISPLAYS & VIEWS",
+    "page": 11,
+    "lines": [
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Tap on empty screen space",
+          "color": "ma2"
+        },
+        {
+          "text": "} = {"
+        },
+        {
+          "text": "New Tab",
+          "color": "eos"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "Pools",
+          "color": "ma2"
+        },
+        {
+          "text": " are essentially the equivalent of "
+        },
+        {
+          "text": "Direct Selects ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "(Though, "
+        },
+        {
+          "text": "Pools",
+          "color": "ma2"
+        },
+        {
+          "text": " can also be set to display in a list view, similar to "
+        },
+        {
+          "text": "Eos Target lists",
+          "color": "eos"
+        },
+        {
+          "text": " (i.e “{"
+        },
+        {
+          "text": "Preset ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Preset",
+          "color": "eos"
+        },
+        {
+          "text": "}” brings up list view of "
+        },
+        {
+          "text": "Presets",
+          "color": "eos"
+        },
+        {
+          "text": ") "
+        }
+      ],
+      [
+        {
+          "text": "Click/Tap on the "
+        },
+        {
+          "text": "yellow ball",
+          "color": "ma2"
+        },
+        {
+          "text": " in upper left corner of a "
+        },
+        {
+          "text": "Pool",
+          "color": "ma2"
+        },
+        {
+          "text": " to see all "
+        },
+        {
+          "text": "Pool",
+          "color": "ma2"
+        },
+        {
+          "text": " options (and to set "
+        }
+      ],
+      [
+        {
+          "text": "the pool to display in list format)"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Command Line",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " Command History  ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "MA2 "
+        },
+        {
+          "text": "Command Line",
+          "color": "ma2"
+        },
+        {
+          "text": " also shows errors and whether a command was successful or not. Very "
+        }
+      ],
+      [
+        {
+          "text": "useful.  "
+        }
+      ],
+      [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Fixture Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": "\" is essentially \""
+        },
+        {
+          "text": "Live Table",
+          "color": "eos"
+        },
+        {
+          "text": "\" Tab (Will only show objects with "
+        },
+        {
+          "text": "Fixture #",
+          "color": "ma2"
+        },
+        {
+          "text": " in patch) "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Channel Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": "” is sort of like “"
+        },
+        {
+          "text": "Live Tombstone",
+          "color": "eos"
+        },
+        {
+          "text": "” Tab (Will only show objects with "
+        },
+        {
+          "text": "Channel #",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "in patch) "
+        }
+      ],
+      [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Sequence Executor Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": "\" is essentially \""
+        },
+        {
+          "text": "Playback Status Display",
+          "color": "eos"
+        },
+        {
+          "text": "\" Tab "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Sequence Tracking Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": "” is similar to a “"
+        },
+        {
+          "text": "Blind Spreadsheet",
+          "color": "eos"
+        },
+        {
+          "text": "” tab in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Views",
+          "color": "ma2"
+        },
+        {
+          "text": " are "
+        },
+        {
+          "text": "Snapshots",
+          "color": "eos"
+        },
+        {
+          "text": " (but only in the sense of displays, nothing to do with filters or Fader "
+        }
+      ],
+      [
+        {
+          "text": "status) "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Setup",
+          "color": "ma2"
+        },
+        {
+          "text": "} is combination of {"
+        },
+        {
+          "text": "Displays Setup",
+          "color": "eos"
+        },
+        {
+          "text": "} and the "
+        },
+        {
+          "text": "Eos Settings Shell",
+          "color": "eos"
+        },
+        {
+          "text": " (for networking, "
+        }
+      ],
+      [
+        {
+          "text": "system time, …). Almost all settings and setup can be found in {"
+        },
+        {
+          "text": "Setup",
+          "color": "ma2"
+        },
+        {
+          "text": "} screen "
+        }
+      ],
+      [
+        {
+          "text": "- In "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ", all networking setup occurs outside of the main programming environment. "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Displays",
+          "color": "eos"
+        },
+        {
+          "text": "} Scroll down to "
+        },
+        {
+          "text": "Exit",
+          "color": "eos"
+        },
+        {
+          "text": ".  Then click on "
+        },
+        {
+          "text": "Settings",
+          "color": "eos"
+        },
+        {
+          "text": "  "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Backup",
+          "color": "ma2"
+        },
+        {
+          "text": "} is for all show file  "
+        },
+        {
+          "text": "Save",
+          "color": "eos"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Open",
+          "color": "eos"
+        },
+        {
+          "text": " functions "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Backup",
+          "color": "ma2"
+        },
+        {
+          "text": "} {"
+        },
+        {
+          "text": "Backup",
+          "color": "ma2"
+        },
+        {
+          "text": "} = {"
+        },
+        {
+          "text": "Shift Update",
+          "color": "eos"
+        },
+        {
+          "text": "}   -   Quick Save "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "11"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "PATCH",
+    "page": 12,
+    "lines": [
+      [
+        {
+          "text": "Patch ",
+          "color": "ma2"
+        },
+        {
+          "text": "is found in the {"
+        },
+        {
+          "text": "Setup",
+          "color": "ma2"
+        },
+        {
+          "text": "} menu"
+        },
+        {
+          "text": ".",
+          "color": "ma2"
+        },
+        {
+          "text": "  "
+        }
+      ],
+      [
+        {
+          "text": "Be aware of both Fixture # and Channel #, though in many instances they are kept "
+        }
+      ],
+      [
+        {
+          "text": "identical, or only one or the other is used.  (See section on “Fixture # vs Channel #” "
+        }
+      ],
+      [
+        {
+          "text": "under Core Concepts) "
+        }
+      ],
+      [
+        {
+          "text": "MultiPatch ",
+          "color": "ma2"
+        },
+        {
+          "text": "= approximately"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "Channel Parts ",
+          "color": "eos"
+        },
+        {
+          "text": "= Patching multiple addresses to one "
+        }
+      ],
+      [
+        {
+          "text": "Channel/Fixture "
+        }
+      ],
+      [
+        {
+          "text": "(i.e. To patch addresses 1 thru 10 to channel 1, create channel 1, then press the softkey "
+        }
+      ],
+      [
+        {
+          "text": "Create MultiPatch",
+          "color": "ma2"
+        },
+        {
+          "text": ") "
+        }
+      ],
+      [
+        {
+          "text": "*"
+        },
+        {
+          "text": "MultiPatch",
+          "color": "ma2"
+        },
+        {
+          "text": " can only be created for the same Fixture Type i.e. a dimmer and an iris can "
+        }
+      ],
+      [
+        {
+          "text": "not",
+          "bold": true
+        },
+        {
+          "text": " be in the same MultiPatch.   "
+        }
+      ],
+      [
+        {
+          "text": "*An example of this would be an I-cue or Auto-Yoke or VL-1000 with external dimmer.   "
+        }
+      ],
+      [
+        {
+          "text": "In "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " these fixtures can be patched simply by breaking down the separate "
+        }
+      ],
+      [
+        {
+          "text": "addresses and types into "
+        },
+        {
+          "text": "Channel Parts",
+          "color": "eos"
+        },
+        {
+          "text": " and then patching the starting "
+        },
+        {
+          "text": "addresses",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "In "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": ", you must create or use a specific "
+        },
+        {
+          "text": "Fixture Type",
+          "color": "ma2"
+        },
+        {
+          "text": " that specifies all of those "
+        }
+      ],
+      [
+        {
+          "text": "individual parts.  In the "
+        },
+        {
+          "text": "Fixture Type",
+          "color": "ma2"
+        },
+        {
+          "text": " editor, the "
+        },
+        {
+          "text": "Break",
+          "color": "ma2"
+        },
+        {
+          "text": " column, defines the separation "
+        }
+      ],
+      [
+        {
+          "text": "between chunks of DMX addresses.   "
+        }
+      ],
+      [
+        {
+          "text": "So for a typical I-Cue fixture setup, the Dimmer would be within "
+        },
+        {
+          "text": "Break 1",
+          "color": "ma2"
+        },
+        {
+          "text": ", the I-Cue would "
+        }
+      ],
+      [
+        {
+          "text": "be within "
+        },
+        {
+          "text": "Break 2",
+          "color": "ma2"
+        },
+        {
+          "text": ", and the Iris would be within "
+        },
+        {
+          "text": "Break 3",
+          "color": "ma2"
+        },
+        {
+          "text": ".  Then when patching, you are "
+        }
+      ],
+      [
+        {
+          "text": "given the option to assign a separate starting address for all 3 of these “Breaks” "
+        }
+      ],
+      [
+        {
+          "text": "Patch syntax via command line (Fixture Objects must already exist in the Patch "
+        }
+      ],
+      [
+        {
+          "text": "Schedule):  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Assign Fixture 201 At DMX {Channel Channel} 4.101",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Patch || Chan 201 At 4/101",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "Overwrites previous address assigned to fixture. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Assign DMX {Channel Channel} 4.101 At Fixture 201",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Patch || Chan 201 Part # At ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "4/101",
+          "color": "eos"
+        },
+        {
+          "text": "”  "
+        }
+      ],
+      [
+        {
+          "text": "ADDS address to channel as "
+        },
+        {
+          "text": "MultiPatch",
+          "color": "ma2"
+        },
+        {
+          "text": "."
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "12"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "MORE COMMANDS",
+    "page": 13,
+    "lines": [
+      [
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": " & "
+        },
+        {
+          "text": "Last",
+          "color": "ma2"
+        },
+        {
+          "text": " partially behave the same way as "
+        },
+        {
+          "text": "Next",
+          "color": "eos"
+        },
+        {
+          "text": " & "
+        },
+        {
+          "text": "Last",
+          "color": "eos"
+        },
+        {
+          "text": " in Eos, but "
+        },
+        {
+          "text": "only",
+          "bold": true
+        },
+        {
+          "text": " in terms of "
+        }
+      ],
+      [
+        {
+          "text": "channel selection. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Group 18 Please",
+          "color": "ma2"
+        },
+        {
+          "text": "” {"
+        },
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": "} {"
+        },
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": "} {"
+        },
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": "} = “"
+        },
+        {
+          "text": "Group 18 Enter",
+          "color": "eos"
+        },
+        {
+          "text": "” {"
+        },
+        {
+          "text": "Next",
+          "color": "eos"
+        },
+        {
+          "text": "} {"
+        },
+        {
+          "text": "Next",
+          "color": "eos"
+        },
+        {
+          "text": "} {"
+        },
+        {
+          "text": "Next",
+          "color": "eos"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": " & "
+        },
+        {
+          "text": "Last ",
+          "color": "ma2"
+        },
+        {
+          "text": "are used in Channel Selection,"
+        },
+        {
+          "text": " MAtricks, Highlight, Solo ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": " & "
+        },
+        {
+          "text": "Last",
+          "color": "ma2"
+        },
+        {
+          "text": " will "
+        },
+        {
+          "text": "NOT ",
+          "bold": true
+        },
+        {
+          "text": "function with any other type of object or target, other than "
+        }
+      ],
+      [
+        {
+          "text": "channel selection.  "
+        }
+      ],
+      [
+        {
+          "text": "Whereas Eos "
+        },
+        {
+          "text": "Next",
+          "color": "eos"
+        },
+        {
+          "text": " & "
+        },
+        {
+          "text": "Last ",
+          "color": "eos"
+        },
+        {
+          "text": "can pertain to whatever object or target is currently in the "
+        }
+      ],
+      [
+        {
+          "text": "command line. "
+        }
+      ],
+      [
+        {
+          "text": "A "
+        },
+        {
+          "text": "Sequence",
+          "color": "ma2"
+        },
+        {
+          "text": " is a "
+        },
+        {
+          "text": "Cue List ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Executor",
+          "color": "ma2"
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "Fader",
+          "color": "eos"
+        },
+        {
+          "text": " on Eos (as of Eos v2.4).   "
+        }
+      ],
+      [
+        {
+          "text": "An "
+        },
+        {
+          "text": "Executor",
+          "color": "ma2"
+        },
+        {
+          "text": " contains a "
+        },
+        {
+          "text": "Sequence",
+          "color": "ma2"
+        },
+        {
+          "text": ".  A "
+        },
+        {
+          "text": "Sequence",
+          "color": "ma2"
+        },
+        {
+          "text": " contains "
+        },
+        {
+          "text": "Cues",
+          "color": "ma2"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "Select",
+          "color": "ma2"
+        },
+        {
+          "text": " acts sort of like the "
+        },
+        {
+          "text": "Master Load",
+          "color": "eos"
+        },
+        {
+          "text": " button "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Select Executor 1.14",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Cue 14/ [Load]",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "(Select also can be used with other targets such as "
+        },
+        {
+          "text": "Filters",
+          "color": "ma2"
+        },
+        {
+          "text": ") "
+        }
+      ],
+      [
+        {
+          "text": "Break",
+          "color": "ma2"
+        },
+        {
+          "text": " Cue is a "
+        },
+        {
+          "text": "Block",
+          "color": "eos"
+        },
+        {
+          "text": " Cue.  (This is found in the "
+        },
+        {
+          "text": "Sequence Executor Sheet ",
+          "color": "ma2"
+        },
+        {
+          "text": "under "
+        },
+        {
+          "text": "Cue Type",
+          "color": "ma2"
+        },
+        {
+          "text": ")"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "Block",
+          "color": "ma2"
+        },
+        {
+          "text": "  and "
+        },
+        {
+          "text": "Unblock",
+          "color": "ma2"
+        },
+        {
+          "text": " are also keywords that can be used for "
+        },
+        {
+          "text": "forcing tracked values to be ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "hard values",
+          "bold": true
+        },
+        {
+          "text": ", either per cue or per fixture.  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Block Cue 4",
+          "color": "ma2"
+        },
+        {
+          "text": "” or “"
+        },
+        {
+          "text": "Block Cue 4 If Fixture 34",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "But",
+          "bold": true
+        },
+        {
+          "text": " these commands only apply to existing values or tracked values in a cue, and act only "
+        }
+      ],
+      [
+        {
+          "text": "as a one-time action.  If a new fixture is added to the sequence later on, only a "
+        },
+        {
+          "text": "Break Cue",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "will block the newly tracked values. "
+        }
+      ],
+      [
+        {
+          "text": "MIB (Move in Black)",
+          "color": "ma2"
+        },
+        {
+          "text": " is like “"
+        },
+        {
+          "text": "Marking",
+          "color": "eos"
+        },
+        {
+          "text": "”.  Though it is a little more like"
+        },
+        {
+          "text": " Eos",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "AutoMark",
+          "color": "eos"
+        },
+        {
+          "text": ", in that in "
+        }
+      ],
+      [
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " you cannot specify specific Channels for Marking/MIB.  You can only apply MIB "
+        }
+      ],
+      [
+        {
+          "text": "options on a per Cue basis. "
+        }
+      ],
+      [
+        {
+          "text": "*",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "MIB",
+          "color": "ma2"
+        },
+        {
+          "text": " column of the "
+        },
+        {
+          "text": "Sequence Executor Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": " is essentially the same as a "
+        },
+        {
+          "text": "Live Move ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Flag",
+          "color": "eos"
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "Playback Status Display",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "In general, it is very time consuming to manually "
+        },
+        {
+          "text": "MIB",
+          "color": "ma2"
+        },
+        {
+          "text": " cues, so it’s usually easiest to just "
+        }
+      ],
+      [
+        {
+          "text": "leave it on Auto in the "
+        },
+        {
+          "text": "Executor Options",
+          "color": "ma2"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "13"
+        }
+      ],
+      [
+        {
+          "text": "Masks",
+          "color": "ma2"
+        },
+        {
+          "text": " are like "
+        },
+        {
+          "text": "Flexi",
+          "color": "eos"
+        },
+        {
+          "text": " (but much more customizable and complex).  "
+        }
+      ],
+      [
+        {
+          "text": "Masks",
+          "color": "ma2"
+        },
+        {
+          "text": " are used in the "
+        },
+        {
+          "text": "Fixture Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Channel Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": " to “mask” away different fixtures/"
+        }
+      ],
+      [
+        {
+          "text": "channels. "
+        }
+      ],
+      [
+        {
+          "text": "Filters",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Group Group Group",
+          "color": "ma2"
+        },
+        {
+          "text": "} are like "
+        },
+        {
+          "text": "record filters/snapshots",
+          "color": "eos"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "selective recording",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "Press and hold "
+        },
+        {
+          "text": "At",
+          "color": "ma2"
+        },
+        {
+          "text": " to open the temporary command filter.  This means that the next "
+        }
+      ],
+      [
+        {
+          "text": "command you type/execute will only apply to the attributes that you select in this "
+        }
+      ],
+      [
+        {
+          "text": "command filter screen). You can then store your current attribute selection as a "
+        },
+        {
+          "text": "Filter",
+          "color": "ma2"
+        },
+        {
+          "text": " object "
+        }
+      ],
+      [
+        {
+          "text": "for later use if you wish.   "
+        }
+      ],
+      [
+        {
+          "text": "Press “"
+        },
+        {
+          "text": "Edit Filter #",
+          "color": "ma2"
+        },
+        {
+          "text": "” to create a new "
+        },
+        {
+          "text": "Filter",
+          "color": "ma2"
+        },
+        {
+          "text": " in the Filter pool. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Filter 3",
+          "color": "ma2"
+        },
+        {
+          "text": "” or simply tapping a "
+        },
+        {
+          "text": "Filter",
+          "color": "ma2"
+        },
+        {
+          "text": " Pool tile will only "
+        },
+        {
+          "text": "temporarily",
+          "bold": true
+        },
+        {
+          "text": " activate the filter for the "
+        }
+      ],
+      [
+        {
+          "text": "next command only",
+          "bold": true
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Select Filter 3",
+          "color": "ma2"
+        },
+        {
+          "text": "” will permanently change the Filter for all future commands until a new Filter "
+        }
+      ],
+      [
+        {
+          "text": "is selected. "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "14"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "PRESETS",
+    "page": 15,
+    "lines": [
+      [
+        {
+          "text": "Preset",
+          "color": "ma2"
+        },
+        {
+          "text": " is like a combination of "
+        },
+        {
+          "text": "Palettes ",
+          "color": "eos"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": " Presets",
+          "color": "eos"
+        },
+        {
+          "text": ".    "
+        }
+      ],
+      [
+        {
+          "text": "i.e. "
+        },
+        {
+          "text": "Color Preset, Position Preset, Gobo Preset =",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "Color Palette, Focus Palette, Beam ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Palette. ",
+          "color": "eos"
+        },
+        {
+          "text": "(Only that category of attribute can be stored to that preset)  "
+        }
+      ],
+      [
+        {
+          "text": "An “"
+        },
+        {
+          "text": "All-Preset",
+          "color": "ma2"
+        },
+        {
+          "text": "\" is the equivalent of \""
+        },
+        {
+          "text": "Preset",
+          "color": "eos"
+        },
+        {
+          "text": "\" on Eos, in that all attributes can be stored to "
+        }
+      ],
+      [
+        {
+          "text": "this type of preset. "
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "Technically, any "
+        },
+        {
+          "text": "preset",
+          "color": "ma2"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " can store any attribute info if the “"
+        },
+        {
+          "text": "Preset Filter",
+          "color": "ma2"
+        },
+        {
+          "text": "” in "
+        },
+        {
+          "text": "Store ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "Options",
+          "color": "ma2"
+        },
+        {
+          "text": " is turned off.  But by default, the Preset Filter is on and presets will only store "
+        }
+      ],
+      [
+        {
+          "text": "the attributes of their PresetType. "
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "There is a setting called “"
+        },
+        {
+          "text": "Allow Embedded",
+          "color": "ma2"
+        },
+        {
+          "text": "” in "
+        },
+        {
+          "text": "Store Options",
+          "color": "ma2"
+        },
+        {
+          "text": ", which is essentially the "
+        }
+      ],
+      [
+        {
+          "text": "equivalent of being able to store "
+        },
+        {
+          "text": "Palettes",
+          "color": "eos"
+        },
+        {
+          "text": " within "
+        },
+        {
+          "text": "Presets",
+          "color": "eos"
+        },
+        {
+          "text": ".  It will allow "
+        },
+        {
+          "text": "Presets",
+          "color": "ma2"
+        },
+        {
+          "text": " to be "
+        }
+      ],
+      [
+        {
+          "text": "stored within other "
+        },
+        {
+          "text": "Presets",
+          "color": "ma2"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "PresetType",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "is the category of gMA2 Preset (Color, Position, etc.)  "
+        }
+      ],
+      [
+        {
+          "text": "(a term used often in MA language, which is why I mention it) "
+        }
+      ],
+      [
+        {
+          "text": "Each "
+        },
+        {
+          "text": "PresetType",
+          "color": "ma2"
+        },
+        {
+          "text": " has an equivalent number (Dimmer=1, Position=2, Color=4, All=0, etc.) "
+        }
+      ],
+      [
+        {
+          "text": "to specify PresetType objects within the command line. "
+        }
+      ],
+      [
+        {
+          "text": "So i.e. “"
+        },
+        {
+          "text": "Preset 4.34",
+          "color": "ma2"
+        },
+        {
+          "text": "” refers to Color Preset 34, “"
+        },
+        {
+          "text": "Preset 2.7",
+          "color": "ma2"
+        },
+        {
+          "text": "” refers to Position Preset 7 "
+        }
+      ],
+      [
+        {
+          "text": "i.e “"
+        },
+        {
+          "text": "At Preset 4.34",
+          "color": "ma2"
+        },
+        {
+          "text": "” will place the currently selected fixtures into Color Preset 34. "
+        }
+      ],
+      [
+        {
+          "text": "The encoder grouping touchscreen buttons above the encoders are called the "
+        }
+      ],
+      [
+        {
+          "text": "PresetType ",
+          "color": "ma2"
+        },
+        {
+          "text": "buttons.  These can be used in combination with many other commands "
+        }
+      ],
+      [
+        {
+          "text": "such as "
+        },
+        {
+          "text": "Off, On, Extract, Default, Release, Remove, If, ",
+          "color": "ma2"
+        },
+        {
+          "text": "etc.  "
+        }
+      ],
+      [
+        {
+          "text": "i.e."
+        },
+        {
+          "text": " “Off (Touch “Position\" PresetType Button)”",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Preset Store/Scope options: "
+        }
+      ],
+      [
+        {
+          "text": "Selective",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "is like "
+        },
+        {
+          "text": "discrete",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "palette",
+          "color": "eos"
+        },
+        {
+          "text": " data "
+        }
+      ],
+      [
+        {
+          "text": "Global",
+          "color": "ma2"
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "By-Type ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Universal",
+          "color": "ma2"
+        },
+        {
+          "text": " is a super special"
+        },
+        {
+          "text": " By-Type",
+          "color": "eos"
+        },
+        {
+          "text": " that will apply to any and all fixtures with those "
+        }
+      ],
+      [
+        {
+          "text": "parameters. Only works for intensity, position, and mix color. "
+        }
+      ],
+      [
+        {
+          "text": "Found in "
+        },
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Options",
+          "color": "ma2"
+        },
+        {
+          "text": " or"
+        },
+        {
+          "text": " Preset Pool",
+          "color": "ma2"
+        },
+        {
+          "text": " window options."
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "15"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "IF",
+    "page": 16,
+    "lines": [
+      [
+        {
+          "text": "IfOutput",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "If",
+          "color": "ma2"
+        },
+        {
+          "text": "} is "
+        },
+        {
+          "text": "select active",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "IfActive",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "If If",
+          "color": "ma2"
+        },
+        {
+          "text": "} is "
+        },
+        {
+          "text": "select manual, ",
+          "color": "eos"
+        },
+        {
+          "text": "but doesn't include deactivated (red text only) data "
+        }
+      ],
+      [
+        {
+          "text": "IfProg",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "If If If",
+          "color": "ma2"
+        },
+        {
+          "text": "} is "
+        },
+        {
+          "text": "select manual, ",
+          "color": "eos"
+        },
+        {
+          "text": "both active and deactive (red text and red background)"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "IfOutput, IfActive, ",
+          "color": "ma2"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": " IfProg ",
+          "color": "ma2"
+        },
+        {
+          "text": "also work very similarly to"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "Query ",
+          "color": "eos"
+        },
+        {
+          "text": "when used in combination "
+        }
+      ],
+      [
+        {
+          "text": "with "
+        },
+        {
+          "text": "At",
+          "color": "ma2"
+        },
+        {
+          "text": " and with other targets/objects."
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "IfOutput At Preset 4.34",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Query Color Palette 34",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "IfOutput At 0",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Query At 0",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "If",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "MA + If",
+          "color": "ma2"
+        },
+        {
+          "text": "} or {"
+        },
+        {
+          "text": "If If If If",
+          "color": "ma2"
+        },
+        {
+          "text": "} is primarily used as a helping keyword with many other commands "
+        }
+      ],
+      [
+        {
+          "text": "to limit the scope of that command.   "
+        }
+      ],
+      [
+        {
+          "text": "For example "
+        },
+        {
+          "text": "Selective Recording:",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Store Cue 34 If Fixture 9",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 9 Record Cue 34",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Store Cue 34 If PresetType 4",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Color Record Cue 34",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "Or recalling data from other objects or sources: "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 202 At Fixture 203 If PresetType “Color”",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 202 Color Recall From Chan 203",
+          "color": "eos"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 41 At Cue 23 If Attribute “Pan”",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 41 Pan Recall From Cue 23",
+          "color": "eos"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Block Cue 34 If Fixture 9",
+          "color": "ma2"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "“"
+        },
+        {
+          "text": "Blind || Cue 34 || Chan 9 Block",
+          "color": "eos"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "16"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "OTHER COMMANDS",
+    "page": 17,
+    "lines": [
+      [
+        {
+          "text": "Copy",
+          "color": "ma2"
+        },
+        {
+          "text": " is essentially the same as "
+        },
+        {
+          "text": "Copy To",
+          "color": "eos"
+        },
+        {
+          "text": ", but requires different syntax. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Copy Preset 4.2 At 4.3”",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "“"
+        },
+        {
+          "text": "Color Palette 2 Copy To Color Palette 3",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Copy Cue 4 At Cue 22",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Cue 4 Copy To Cue 22",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "See section on "
+        },
+        {
+          "text": "Status",
+          "color": "ma2"
+        },
+        {
+          "text": " to include tracked values in your Copy command"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Move",
+          "color": "ma2"
+        },
+        {
+          "text": " is essentially the same as "
+        },
+        {
+          "text": "Move To",
+          "color": "eos"
+        },
+        {
+          "text": ", but requires different syntax. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Move Preset 4.2 At 4.3",
+          "color": "ma2"
+        },
+        {
+          "text": "” ="
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "“"
+        },
+        {
+          "text": "Color Palette 2 Move To Color Palette 3",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Move Cue 4 At Cue 5",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Cue 4 Move To Cue 5",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "MAtricks",
+          "color": "ma2"
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "Offset",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Wings",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "is like "
+        },
+        {
+          "text": "Pan Fan Mirror ",
+          "color": "eos"
+        },
+        {
+          "text": "(Think of symmetry of “wings” on a bird or plane)"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Single X ",
+          "color": "ma2"
+        },
+        {
+          "text": "is simply the individual selection within a group that is controlled by {"
+        },
+        {
+          "text": "Next",
+          "color": "ma2"
+        },
+        {
+          "text": "} & "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Last",
+          "color": "ma2"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "Blocks",
+          "color": "ma2"
+        },
+        {
+          "text": " are like {"
+        },
+        {
+          "text": "Chan Per Group",
+          "color": "eos"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "Interleave",
+          "color": "ma2"
+        },
+        {
+          "text": " is like {"
+        },
+        {
+          "text": "Chan Per Group",
+          "color": "eos"
+        },
+        {
+          "text": "} {"
+        },
+        {
+          "text": "Interleave",
+          "color": "eos"
+        },
+        {
+          "text": "} "
+        }
+      ],
+      [
+        {
+          "text": "http://help2.malighting.com/Page/grandMA2/matricks/en/3.3",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Align",
+          "color": "ma2"
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "Fan ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "You can also use the syntax “"
+        },
+        {
+          "text": "At 10 thru 100",
+          "color": "ma2"
+        },
+        {
+          "text": "”, much the same as you would in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Fan",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "values. "
+        }
+      ],
+      [
+        {
+          "text": "(Note: This can "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " be done with Presets or other referenced data on "
+        },
+        {
+          "text": "gMA2",
+          "color": "ma2"
+        },
+        {
+          "text": ", as you can in "
+        }
+      ],
+      [
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ".  Only possible with hard values on gMA2.  "
+        }
+      ],
+      [
+        {
+          "text": "i.e “"
+        },
+        {
+          "text": "At Preset 4.1 thru 4.5",
+          "color": "ma2"
+        },
+        {
+          "text": "” does "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " currently work) "
+        }
+      ],
+      [
+        {
+          "text": "{"
+        },
+        {
+          "text": "Assign Assign",
+          "color": "ma2"
+        },
+        {
+          "text": "} is "
+        },
+        {
+          "text": "Label ",
+          "color": "eos"
+        },
+        {
+          "text": "- i.e. “"
+        },
+        {
+          "text": "Assign Assign Cue 2 Please",
+          "color": "ma2"
+        },
+        {
+          "text": "” opens dialog to label Cue 2 "
+        }
+      ],
+      [
+        {
+          "text": "(Eos syntax: “"
+        },
+        {
+          "text": "Cue 2 Label",
+          "color": "eos"
+        },
+        {
+          "text": "”) "
+        }
+      ],
+      [
+        {
+          "text": "Worlds",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Group Group",
+          "color": "ma2"
+        },
+        {
+          "text": "} are like "
+        },
+        {
+          "text": "Partitions",
+          "color": "eos"
+        },
+        {
+          "text": ", but way more flexible, in that you can also "
+        }
+      ],
+      [
+        {
+          "text": "exclude/include specific attributes.   "
+        }
+      ],
+      [
+        {
+          "text": "Worlds",
+          "color": "ma2"
+        },
+        {
+          "text": " are like a combination of "
+        },
+        {
+          "text": "Partitions",
+          "color": "eos"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Record Filter Snapshots",
+          "color": "eos"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "Stomp",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "MA+At",
+          "color": "ma2"
+        },
+        {
+          "text": "} is like \""
+        },
+        {
+          "text": "Stop Effect",
+          "color": "eos"
+        },
+        {
+          "text": "\" command, but if applied to an attribute or Fixture acts "
+        }
+      ],
+      [
+        {
+          "text": "more like a value than a command (see section on "
+        },
+        {
+          "text": "Effects"
+        },
+        {
+          "text": ") and behaves as such in regards "
+        }
+      ],
+      [
+        {
+          "text": "to LTP, higher/lower priorities, and background values. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Stomp Selection",
+          "color": "ma2"
+        },
+        {
+          "text": "” or “"
+        },
+        {
+          "text": "Stomp PresetType “Dimmer”",
+          "color": "ma2"
+        },
+        {
+          "text": "” will stop any running effects "
+        }
+      ],
+      [
+        {
+          "text": "respectively in the "
+        },
+        {
+          "text": "Programmer",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "17"
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "Not to be confused with Eos "
+        },
+        {
+          "text": "Stomp ",
+          "color": "eos"
+        },
+        {
+          "text": "(v2.4)  Eos "
+        },
+        {
+          "text": "Stomp",
+          "color": "eos"
+        },
+        {
+          "text": " has to do with a "
+        },
+        {
+          "text": "Fader",
+          "color": "eos"
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "cue list, ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "submaster, ",
+          "color": "eos"
+        },
+        {
+          "text": "etc) being overwritten by another "
+        },
+        {
+          "text": "Fader",
+          "color": "eos"
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "cue list, submaster, ",
+          "color": "eos"
+        },
+        {
+          "text": "etc)"
+        },
+        {
+          "text": ".",
+          "color": "eos"
+        },
+        {
+          "text": "  The Eos "
+        }
+      ],
+      [
+        {
+          "text": "Fader",
+          "color": "eos"
+        },
+        {
+          "text": " options for "
+        },
+        {
+          "text": "Stomp",
+          "color": "eos"
+        },
+        {
+          "text": " dictate what the "
+        },
+        {
+          "text": "Fader",
+          "color": "eos"
+        },
+        {
+          "text": " will do when it no longer “owns” the "
+        }
+      ],
+      [
+        {
+          "text": "fixtures or attributes, when another "
+        },
+        {
+          "text": "Fader",
+          "color": "eos"
+        },
+        {
+          "text": " has taken over control of those fixtures.  See "
+        }
+      ],
+      [
+        {
+          "text": "Executor Options"
+        },
+        {
+          "text": " for gMA2 equivalent. "
+        }
+      ],
+      [
+        {
+          "text": "Layout",
+          "color": "ma2"
+        },
+        {
+          "text": " is like a "
+        },
+        {
+          "text": "Magic Sheet ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "To put "
+        },
+        {
+          "text": "Fixtures/Channels",
+          "color": "ma2"
+        },
+        {
+          "text": " in a "
+        },
+        {
+          "text": "Layout",
+          "color": "ma2"
+        },
+        {
+          "text": ", make a selection then"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "“"
+        },
+        {
+          "text": "Store Layout #",
+          "color": "ma2"
+        },
+        {
+          "text": "”.  Those fixture "
+        }
+      ],
+      [
+        {
+          "text": "objects will then appear in the Layout. "
+        }
+      ],
+      [
+        {
+          "text": "To place any other object ("
+        },
+        {
+          "text": "Presets, Groups, Macros",
+          "color": "ma2"
+        },
+        {
+          "text": "): “"
+        },
+        {
+          "text": "Assign Preset # At Layout #",
+          "color": "ma2"
+        },
+        {
+          "text": "”. Those "
+        }
+      ],
+      [
+        {
+          "text": "objects will now appear in the Layout. "
+        }
+      ],
+      [
+        {
+          "text": "Press Setup at the top of the Layout View to arrange your Layout objects. "
+        }
+      ],
+      [
+        {
+          "text": "Freeze",
+          "color": "ma2"
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "capture ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Freeze",
+          "color": "ma2"
+        },
+        {
+          "text": " on MA is just an on/off state of the programmer.  It cannot be applied to individual "
+        }
+      ],
+      [
+        {
+          "text": "fixtures/channels. "
+        }
+      ],
+      [
+        {
+          "text": "Call ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "On On",
+          "color": "ma2"
+        },
+        {
+          "text": "} is the equivalent of \""
+        },
+        {
+          "text": "Recall From [Record Target]",
+          "color": "eos"
+        },
+        {
+          "text": "\", meaning it will put all stored "
+        }
+      ],
+      [
+        {
+          "text": "data of that object into the Programmer. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Call Preset 4.2",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Recall From Color Palette 2",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "OFF & ON"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "On",
+          "color": "ma2"
+        },
+        {
+          "text": " is like "
+        },
+        {
+          "text": "Make Manual",
+          "color": "eos"
+        },
+        {
+          "text": " (and also "
+        },
+        {
+          "text": "Activates",
+          "color": "ma2"
+        },
+        {
+          "text": "), in regard to "
+        },
+        {
+          "text": "Fixtures",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Attributes",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        }
+      ],
+      [
+        {
+          "text": "PresetTypes",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "i.e. "
+        },
+        {
+          "text": "“On Fixture 201”",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "= “"
+        },
+        {
+          "text": "Chan 201 Make Manual",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "On Selection ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Fixture Fixture",
+          "color": "ma2"
+        },
+        {
+          "text": "}” = “"
+        },
+        {
+          "text": "Select Last Make Manual",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "On ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Touch Color PresetType encoder group",
+          "color": "ma2"
+        },
+        {
+          "text": "}” = “"
+        },
+        {
+          "text": "Select Last Color Make Manual",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "Off",
+          "color": "ma2"
+        },
+        {
+          "text": " is like "
+        },
+        {
+          "text": "Sneak",
+          "color": "eos"
+        },
+        {
+          "text": ", in regards to channels or attributes "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Off Fixture 201",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 201 Sneak",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Off Selection ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Fixture Fixture",
+          "color": "ma2"
+        },
+        {
+          "text": "}” = “"
+        },
+        {
+          "text": "Select Last Sneak",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Off ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Touch Color PresetType encoder group",
+          "color": "ma2"
+        },
+        {
+          "text": "}” = “"
+        },
+        {
+          "text": "Select Last Color Sneak",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "Both of these also have functions relating to executors and playback that is more like "
+        }
+      ],
+      [
+        {
+          "text": "releasing content and \""
+        },
+        {
+          "text": "Go To Cue 0",
+          "color": "eos"
+        },
+        {
+          "text": "\" and such "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Off Sequence 12",
+          "color": "ma2"
+        },
+        {
+          "text": "” is somewhat equivalent to “"
+        },
+        {
+          "text": "Go to Cue 12/0",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "(gMA2 “"
+        },
+        {
+          "text": "Off",
+          "color": "ma2"
+        },
+        {
+          "text": "” is also essentially equivalent to Eos “"
+        },
+        {
+          "text": "Off",
+          "color": "eos"
+        },
+        {
+          "text": "”, in that gMA2 will release control "
+        }
+      ],
+      [
+        {
+          "text": "of that Sequences/Executors fixtures to the background values, just like in Eos”) "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "18"
+        }
+      ],
+      [
+        {
+          "text": "“Off Page Thru”",
+          "color": "ma2"
+        },
+        {
+          "text": " = “"
+        },
+        {
+          "text": "Go To Cue Out",
+          "color": "eos"
+        },
+        {
+          "text": "”, in that it is turning "
+        },
+        {
+          "text": "off",
+          "color": "ma2"
+        },
+        {
+          "text": " all "
+        },
+        {
+          "text": "executors",
+          "color": "ma2"
+        },
+        {
+          "text": " on all "
+        },
+        {
+          "text": "pages",
+          "color": "ma2"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "“Off Please” ",
+          "color": "ma2"
+        },
+        {
+          "text": "= “"
+        },
+        {
+          "text": "Go To Cue 0",
+          "color": "eos"
+        },
+        {
+          "text": "” will turn off the currently selected executor "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Off Executor 3",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Go To Cue 3/0",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "Off Off ",
+          "color": "ma2"
+        },
+        {
+          "text": "opens up the Off Window, which shows you all running executors, effects, "
+        }
+      ],
+      [
+        {
+          "text": "macros, etc. "
+        }
+      ],
+      [
+        {
+          "text": "Off",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": " and ",
+          "bold": true
+        },
+        {
+          "text": "On",
+          "color": "ma2",
+          "bold": true
+        },
+        {
+          "text": " are very useful and powerful commands ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Selection",
+          "color": "ma2"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Fixture Fixture",
+          "color": "ma2"
+        },
+        {
+          "text": "} - makes the current channel selection usable in a command. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. "
+        },
+        {
+          "text": "”Off Selection\"",
+          "color": "ma2"
+        },
+        {
+          "text": " = “"
+        },
+        {
+          "text": "Select Last Sneak",
+          "color": "eos"
+        },
+        {
+          "text": "” - will knock out the currently selected channels "
+        }
+      ],
+      [
+        {
+          "text": "from the programmer) "
+        }
+      ],
+      [
+        {
+          "text": "Selection",
+          "color": "ma2"
+        },
+        {
+          "text": " can be used in combination with: "
+        },
+        {
+          "text": "On, Off, Release, Remove, Park, UnPark, Stomp, ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "etc. ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "SelFix ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Select Select",
+          "color": "ma2"
+        },
+        {
+          "text": "}"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "Group (Object/Target) ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "SelFix Executor 8",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Group Sub 8",
+          "color": "eos"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Default",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "MA + dot",
+          "color": "ma2"
+        },
+        {
+          "text": "} or {"
+        },
+        {
+          "text": "MA + .",
+          "color": "ma2"
+        },
+        {
+          "text": "} = "
+        },
+        {
+          "text": "Home  ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "Unfortunately, executing "
+        },
+        {
+          "text": "Default ",
+          "color": "ma2"
+        },
+        {
+          "text": "as a command by itself also applies to "
+        },
+        {
+          "text": "Intensity/Dimmer",
+          "color": "ma2"
+        },
+        {
+          "text": ", "
+        }
+      ],
+      [
+        {
+          "text": "which will usually have a value of 0… Whereas "
+        },
+        {
+          "text": "Eos Home",
+          "color": "eos"
+        },
+        {
+          "text": " will only apply to "
+        },
+        {
+          "text": "All NIPs",
+          "color": "eos"
+        },
+        {
+          "text": " by "
+        }
+      ],
+      [
+        {
+          "text": "default. "
+        }
+      ],
+      [
+        {
+          "text": "However, “"
+        },
+        {
+          "text": "Default (Tap Position Preset Encoder button)",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Select Last Focus Home",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“Extract”",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "MA + At + At",
+          "color": "ma2"
+        },
+        {
+          "text": "} is like "
+        },
+        {
+          "text": "Make Absolute.   ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "But the command “"
+        },
+        {
+          "text": "Extract",
+          "color": "ma2"
+        },
+        {
+          "text": "” is used in place of the command “"
+        },
+        {
+          "text": "At",
+          "color": "ma2"
+        },
+        {
+          "text": "” in syntax."
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Extract Preset 4.2",
+          "color": "ma2"
+        },
+        {
+          "text": "” is essentially like "
+        },
+        {
+          "text": "“… At Color Palette 2 Make Absolute” ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Meaning that gMA2 will apply the values of Color Preset 2 to the currently selected fixtures "
+        }
+      ],
+      [
+        {
+          "text": "as hard, unreferenced data."
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Path",
+          "color": "ma2"
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "Curve",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Remove",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Delete Delete",
+          "color": "ma2"
+        },
+        {
+          "text": "} is like “"
+        },
+        {
+          "text": "@ Enter",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Remove Fixture 204",
+          "color": "ma2"
+        },
+        {
+          "text": "” approximately = “"
+        },
+        {
+          "text": "Chan 204 At Enter",
+          "color": "eos"
+        },
+        {
+          "text": "”  "
+        }
+      ],
+      [
+        {
+          "text": "HOWEVER"
+        },
+        {
+          "text": " once you give an attribute a “"
+        },
+        {
+          "text": "Remove",
+          "color": "ma2"
+        },
+        {
+          "text": "” value, in "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " you must "
+        },
+        {
+          "text": "Store Merge",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        }
+      ],
+      [
+        {
+          "text": "Update",
+          "color": "ma2"
+        },
+        {
+          "text": " to the record target in order to actually "
+        },
+        {
+          "text": "remove"
+        },
+        {
+          "text": " the move instruction, letting "
+        }
+      ],
+      [
+        {
+          "text": "tracking values through.  Or in the case of Presets, removing the data altogether.   "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "19"
+        }
+      ],
+      [
+        {
+          "text": "Similar to "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "except ",
+          "bold": true
+        },
+        {
+          "text": "if in "
+        },
+        {
+          "text": "Eos Blind",
+          "color": "eos"
+        },
+        {
+          "text": ", “"
+        },
+        {
+          "text": "@ Enter",
+          "color": "eos"
+        },
+        {
+          "text": "” takes effect immediately.  "
+        }
+      ],
+      [
+        {
+          "text": "Whereas in "
+        },
+        {
+          "text": "MA2 Blind",
+          "color": "ma2"
+        },
+        {
+          "text": ", a"
+        },
+        {
+          "text": " Store Merge ",
+          "color": "ma2"
+        },
+        {
+          "text": "or"
+        },
+        {
+          "text": " Update ",
+          "color": "ma2"
+        },
+        {
+          "text": "is still required. "
+        }
+      ],
+      [
+        {
+          "text": "Delete",
+          "color": "ma2"
+        },
+        {
+          "text": " can also be used to remove values, which is "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " possible in Eos "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Delete Cue 4 If Fixture 201",
+          "color": "ma2"
+        },
+        {
+          "text": "” will remove any values for Fixture 201 stored in Cue 4 "
+        }
+      ],
+      [
+        {
+          "text": "Release",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Delete Delete Delete",
+          "color": "ma2"
+        },
+        {
+          "text": "} = \""
+        },
+        {
+          "text": "Release",
+          "color": "eos"
+        },
+        {
+          "text": "\" found under \""
+        },
+        {
+          "text": "Make Null",
+          "color": "eos"
+        },
+        {
+          "text": "\" in "
+        },
+        {
+          "text": "Blind",
+          "color": "eos"
+        },
+        {
+          "text": " softkeys "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Release Fixture 204",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 204",
+          "color": "eos"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Make Null, Release",
+          "color": "eos"
+        },
+        {
+          "text": "}” "
+        }
+      ],
+      [
+        {
+          "text": "The same "
+        },
+        {
+          "text": "Store Merge",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Update",
+          "color": "ma2"
+        },
+        {
+          "text": " rules apply as mentioned above with "
+        },
+        {
+          "text": "Remove",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Highlight",
+          "color": "ma2"
+        },
+        {
+          "text": " in MA works pretty much the same as "
+        },
+        {
+          "text": "Highlight",
+          "color": "eos"
+        },
+        {
+          "text": " in Eos.  Though there is "
+        },
+        {
+          "text": "no",
+          "bold": true
+        },
+        {
+          "text": " such "
+        }
+      ],
+      [
+        {
+          "text": "thing as a "
+        },
+        {
+          "text": "Lowlight",
+          "color": "eos"
+        },
+        {
+          "text": " level in "
+        },
+        {
+          "text": "MA",
+          "color": "ma2"
+        },
+        {
+          "text": ".  MA only uses the current background value for the non-"
+        }
+      ],
+      [
+        {
+          "text": "highlighted fixtures, it does not force a new value on the non-highlighted fixtures.   "
+        }
+      ],
+      [
+        {
+          "text": "Solo",
+          "color": "ma2"
+        },
+        {
+          "text": " is like "
+        },
+        {
+          "text": "Remdim ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Highlight + Solo",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "="
+        },
+        {
+          "text": " Highlight Remdim ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Time",
+          "color": "ma2"
+        },
+        {
+          "text": " is similar to "
+        },
+        {
+          "text": "Time",
+          "color": "eos"
+        },
+        {
+          "text": ", but with different syntax. "
+        }
+      ],
+      [
+        {
+          "text": "Time",
+          "color": "ma2"
+        },
+        {
+          "text": " in MA2 by default will alter the individual discrete timing of whatever fixtures are "
+        }
+      ],
+      [
+        {
+          "text": "selected. "
+        }
+      ],
+      [
+        {
+          "text": "Time",
+          "color": "eos"
+        },
+        {
+          "text": " in Eos by default will alter the cue time of whatever Cue is currently selected. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 201 ||",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Time 3",
+          "color": "ma2"
+        },
+        {
+          "text": "” or “"
+        },
+        {
+          "text": "Fixture 201 Time 3",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Channel 201 Time 3",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "(A "
+        },
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Record",
+          "color": "eos"
+        },
+        {
+          "text": " command is then required) "
+        }
+      ],
+      [
+        {
+          "text": "To change time of Cue:  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Assign Cue 2 Time 3",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Cue 2 || Time 3",
+          "color": "eos"
+        },
+        {
+          "text": "” or “"
+        },
+        {
+          "text": "Cue 2 Time 3",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "20"
+        }
+      ],
+      [
+        {
+          "text": "PARK "
+        }
+      ],
+      [
+        {
+          "text": "Park",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "Pause Pause",
+          "color": "ma2"
+        },
+        {
+          "text": "} is mostly similar to Eos "
+        },
+        {
+          "text": "Park",
+          "color": "eos"
+        },
+        {
+          "text": "…  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Park Fixture 34",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Channel 34 Park",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Park Fixture 34 If PresetType “Color”",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Channel 34 Color Park",
+          "color": "eos"
+        },
+        {
+          "text": "\" "
+        }
+      ],
+      [
+        {
+          "text": "However, there are a few differences/limitations as well…  "
+        }
+      ],
+      [
+        {
+          "text": "On "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": ", including a specific value within the "
+        },
+        {
+          "text": "Park",
+          "color": "ma2"
+        },
+        {
+          "text": " command does "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " behave the same "
+        }
+      ],
+      [
+        {
+          "text": "way as "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "MA2 Park",
+          "color": "ma2"
+        },
+        {
+          "text": " will always assume the entire fixture unless you specify a specific "
+        },
+        {
+          "text": "Attribute",
+          "color": "ma2"
+        },
+        {
+          "text": ", "
+        }
+      ],
+      [
+        {
+          "text": "Feature",
+          "color": "ma2"
+        },
+        {
+          "text": ", or "
+        },
+        {
+          "text": "PresetType",
+          "color": "ma2"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "Whereas "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " will assume "
+        },
+        {
+          "text": "Intensity",
+          "color": "eos"
+        },
+        {
+          "text": " only, unless otherwise specified. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Park Fixture 34 Attribute \"Dim” At 75",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Channel 34 At 75 Park",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Park Fixture 34 At 75",
+          "color": "ma2"
+        },
+        {
+          "text": "” actually parks ALL attributes at a value of 75.  Not that useful… "
+        }
+      ],
+      [
+        {
+          "text": "In addition, you can only specify hard numeric values within a "
+        },
+        {
+          "text": "Park",
+          "color": "ma2"
+        },
+        {
+          "text": " command.  Specifying "
+        }
+      ],
+      [
+        {
+          "text": "Presets",
+          "color": "ma2"
+        },
+        {
+          "text": " within a "
+        },
+        {
+          "text": "Park",
+          "color": "ma2"
+        },
+        {
+          "text": " command does "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " work.  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Park Fixture 34 At Preset 4.17",
+          "color": "ma2"
+        },
+        {
+          "text": "” will "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " work as expected. Workaround: "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 34 At Preset 4.17 || Park Fixture 34 If PresetType “Color”",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Chan 34 Color Palette ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "17 Park",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "UnPark",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Go+ Go+",
+          "color": "ma2"
+        },
+        {
+          "text": "} takes a fixture out of Park. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "UnPark Fixture 34",
+          "color": "ma2"
+        },
+        {
+          "text": "” = "
+        },
+        {
+          "text": "“Chan 34 Park” (If already Parked)",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "You can also "
+        },
+        {
+          "text": "Park",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "DMX",
+          "color": "ma2"
+        },
+        {
+          "text": "/"
+        },
+        {
+          "text": "Addresses",
+          "color": "eos"
+        },
+        {
+          "text": ".  This works the same as "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Park DMX 3.50 At 30",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Address 3/50 At 30 Park",
+          "color": "eos"
+        },
+        {
+          "text": "”"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "Some "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " programmers actually prefer to create a special "
+        },
+        {
+          "text": "Super Priority",
+          "color": "ma2"
+        },
+        {
+          "text": " “Park” "
+        }
+      ],
+      [
+        {
+          "text": "Executor",
+          "color": "ma2"
+        },
+        {
+          "text": "/"
+        },
+        {
+          "text": "Sequence",
+          "color": "ma2"
+        },
+        {
+          "text": " that they can store and update values into, either manually or using "
+        }
+      ],
+      [
+        {
+          "text": "macros.  Some find this easier to quickly change, turn on/off, rather than working with the "
+        }
+      ],
+      [
+        {
+          "text": "sometimes inconvenient syntax of "
+        },
+        {
+          "text": "Park",
+          "color": "ma2"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "21"
+        }
+      ],
+      [
+        {
+          "text": "CLONE "
+        }
+      ],
+      [
+        {
+          "text": "Clone ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Copy Copy",
+          "color": "ma2"
+        },
+        {
+          "text": "} is an extremely powerful command in MA2, and it is relatable to the "
+        }
+      ],
+      [
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ", though it may seem somewhat backwards from how one performs the same action on "
+        }
+      ],
+      [
+        {
+          "text": "Eos. "
+        }
+      ],
+      [
+        {
+          "text": "Clone",
+          "color": "ma2"
+        },
+        {
+          "text": " is essentially the same as going into "
+        },
+        {
+          "text": "Eos Blind",
+          "color": "eos"
+        },
+        {
+          "text": ", and using "
+        },
+        {
+          "text": "Recall From",
+          "color": "eos"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Copy To ",
+          "color": "eos"
+        },
+        {
+          "text": "to "
+        }
+      ],
+      [
+        {
+          "text": "copy values across multiple fixtures and objects/targets.  So for example: "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Clone Fixture 31 At Fixture 44 If Preset 4.1 thru 4.30",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Blind || Color Palette 1 Thru 30 || ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Channel 44 Recall From Chan 31",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Clone Fixture 4 At Group 12 If Cue 1 Thru 12",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Blind || Cue 1 Thru 12 || Group 12 Recall ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "From Chan 4",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "You can also use a graphical interface for cloning multiple targets/objects at once using the "
+        }
+      ],
+      [
+        {
+          "text": "Clone Interface",
+          "color": "ma2"
+        },
+        {
+          "text": " under "
+        },
+        {
+          "text": "Setup",
+          "color": "ma2"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "You can also Clone/Copy all show data at once: "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Clone Fixture 31 At Fixture 44",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Patch ||",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Chan 31 Copy To Chan 44 {Show Only}",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "**",
+          "bold": true
+        },
+        {
+          "text": "A note on "
+        },
+        {
+          "text": "Cloning Presets",
+          "color": "ma2"
+        },
+        {
+          "text": ":  By default, Cloning one Fixture to another Fixture will always "
+        }
+      ],
+      [
+        {
+          "text": "create "
+        },
+        {
+          "text": "Selective Preset",
+          "color": "ma2"
+        },
+        {
+          "text": " data, regardless of whether the source data was Universal, Global, "
+        }
+      ],
+      [
+        {
+          "text": "or Selective.  To "
+        },
+        {
+          "text": "Clone Global Preset ",
+          "color": "ma2"
+        },
+        {
+          "text": "data, you must clone to a "
+        },
+        {
+          "text": "FixtureType",
+          "color": "ma2"
+        },
+        {
+          "text": " {"
+        },
+        {
+          "text": "MA + Fixture",
+          "color": "ma2"
+        },
+        {
+          "text": "}. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Clone Fixture 34 At FixtureType 4.1.1 If Preset 4.1 Thru",
+          "color": "ma2"
+        },
+        {
+          "text": "” creates Global data. "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Clone FixtureType 1.1.1 At FixtureType 4.1.1 If Preset 4.1 Thru",
+          "color": "ma2"
+        },
+        {
+          "text": "” creates Global data, as "
+        }
+      ],
+      [
+        {
+          "text": "long as the source data is also already Global. "
+        }
+      ],
+      [
+        {
+          "text": "http://help2.malighting.com/Page/grandMA2/clone_clone_presets/en/3.3/clone "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "22"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "EFFECTS",
+    "page": 23,
+    "lines": [
+      [
+        {
+          "text": "Effects are probably THE biggest difference between MA and Eos, so it can be hard to "
+        }
+      ],
+      [
+        {
+          "text": "compare. "
+        }
+      ],
+      [
+        {
+          "text": "All "
+        },
+        {
+          "text": "MA Effects",
+          "color": "ma2"
+        },
+        {
+          "text": " are most essentially equivalent to "
+        },
+        {
+          "text": "Eos Linear",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Effects",
+          "color": "eos"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "MA does not contain any sort of step-based effects engine (meaning there is no direct "
+        }
+      ],
+      [
+        {
+          "text": "equivalent to an "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "step-based",
+          "color": "eos"
+        },
+        {
+          "text": " effect or an "
+        },
+        {
+          "text": "absolute",
+          "color": "eos"
+        },
+        {
+          "text": " effect) "
+        }
+      ],
+      [
+        {
+          "text": "All MA Effects, like Eos Linear Effects, use a graph to determine the movement of a value.  "
+        }
+      ],
+      [
+        {
+          "text": "In this regard, an MA effect can "
+        },
+        {
+          "text": "only",
+          "bold": true
+        },
+        {
+          "text": " contain a High and Low value. "
+        }
+      ],
+      [
+        {
+          "text": "This is roughly the equivalent of saying that all MA effects are limited to only two “steps”. "
+        }
+      ],
+      [
+        {
+          "text": "These High and Low values (two steps) can either be "
+        },
+        {
+          "text": "relative",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "absolute",
+          "color": "ma2"
+        },
+        {
+          "text": ".  Meaning they "
+        }
+      ],
+      [
+        {
+          "text": "can be plus or minus the background value, or they can be hard absolute values — either a "
+        }
+      ],
+      [
+        {
+          "text": "numeric value, or referencing a "
+        },
+        {
+          "text": "Preset",
+          "color": "ma2"
+        },
+        {
+          "text": ". (It is "
+        },
+        {
+          "text": "NOT"
+        },
+        {
+          "text": " possible to set one of the steps to a "
+        }
+      ],
+      [
+        {
+          "text": "“Background” value, as you can on the "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ".) "
+        }
+      ],
+      [
+        {
+          "text": "The only way to create the equivalent of a multi-step (more than 2 step) "
+        },
+        {
+          "text": "Eos Absolute",
+          "color": "eos"
+        },
+        {
+          "text": " effect "
+        }
+      ],
+      [
+        {
+          "text": "is to create a "
+        },
+        {
+          "text": "Chaser ",
+          "color": "ma2"
+        },
+        {
+          "text": "(see Chaser in Executor options section). "
+        }
+      ],
+      [
+        {
+          "text": "As far as "
+        },
+        {
+          "text": "channel selection",
+          "bold": true
+        },
+        {
+          "text": " for effects, an effect in MA can either be a "
+        },
+        {
+          "text": "Template",
+          "color": "ma2"
+        },
+        {
+          "text": " effect or a "
+        }
+      ],
+      [
+        {
+          "text": "Selective",
+          "color": "ma2"
+        },
+        {
+          "text": " effect. "
+        }
+      ],
+      [
+        {
+          "text": "So roughly: "
+        }
+      ],
+      [
+        {
+          "text": "Template Effect",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "≅ "
+        },
+        {
+          "text": "sort of",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Absolute Effect",
+          "color": "eos"
+        },
+        {
+          "text": " - only in that it "
+        },
+        {
+          "text": "does not",
+          "bold": true
+        },
+        {
+          "text": " contain a channel "
+        }
+      ],
+      [
+        {
+          "text": "selection and is instead applied to a selection in the programmer/manually. "
+        }
+      ],
+      [
+        {
+          "text": "Selective Effect",
+          "color": "ma2"
+        },
+        {
+          "text": "  "
+        },
+        {
+          "text": "≅ "
+        },
+        {
+          "text": "sort of",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Step Based Effect",
+          "color": "eos"
+        },
+        {
+          "text": " - only in that it "
+        },
+        {
+          "text": "does",
+          "bold": true
+        },
+        {
+          "text": " contain a selection and will "
+        }
+      ],
+      [
+        {
+          "text": "only run on that specific channel selection. "
+        }
+      ],
+      [
+        {
+          "text": "In MA, you can create an effect either by directly modifying values in the effect layer of the "
+        }
+      ],
+      [
+        {
+          "text": "programmer/fixture sheet/encoders, and then storing to the effect pool, "
+        }
+      ],
+      [
+        {
+          "text": "OR by saying “"
+        },
+        {
+          "text": "Edit Effect ##",
+          "color": "ma2"
+        },
+        {
+          "text": "” which gives you the effects editor screen (I find this to be "
+        }
+      ],
+      [
+        {
+          "text": "much easier than directly modifying effect values in the programmer) "
+        }
+      ],
+      [
+        {
+          "text": "Additionally, you’ll find that many of the predefined effects will accomplish a lot of what you "
+        }
+      ],
+      [
+        {
+          "text": "need, so it’s usually easier to start with those. "
+        }
+      ],
+      [
+        {
+          "text": "Phase",
+          "color": "ma2"
+        },
+        {
+          "text": " is similar to "
+        },
+        {
+          "text": "Grouping",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Width",
+          "color": "ma2"
+        },
+        {
+          "text": " is similar to "
+        },
+        {
+          "text": "Trail",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "Groups",
+          "color": "ma2"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Blocks",
+          "color": "ma2"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Wings",
+          "color": "ma2"
+        },
+        {
+          "text": " are essentially shortcuts to changing the "
+        },
+        {
+          "text": "Phase",
+          "color": "ma2"
+        },
+        {
+          "text": " values across "
+        }
+      ],
+      [
+        {
+          "text": "fixtures "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "23"
+        }
+      ],
+      [
+        {
+          "text": "High",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Low",
+          "color": "ma2"
+        },
+        {
+          "text": " values are roughly equivalent of setting values in an "
+        },
+        {
+          "text": "Absolute",
+          "color": "eos"
+        },
+        {
+          "text": " Effect "
+        }
+      ],
+      [
+        {
+          "text": "Can also change the setting to be "
+        },
+        {
+          "text": "Center",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Size",
+          "color": "ma2"
+        },
+        {
+          "text": " mode, which is much more similar to "
+        }
+      ],
+      [
+        {
+          "text": "Scale",
+          "color": "eos"
+        },
+        {
+          "text": " in a "
+        },
+        {
+          "text": "Linear",
+          "color": "eos"
+        },
+        {
+          "text": " effect "
+        }
+      ],
+      [
+        {
+          "text": "MORE ON UNDERSTANDING EFFECTS "
+        }
+      ],
+      [
+        {
+          "text": "Like I said, Effects are probably one of the more difficult things to equate between MA2 "
+        }
+      ],
+      [
+        {
+          "text": "and Eos. "
+        }
+      ],
+      [
+        {
+          "text": "The most important thing to try and understand is that MA’s effects engine is an attribute-"
+        }
+      ],
+      [
+        {
+          "text": "based effects engine, whereas Eos is a step-based effects engine (yes, even "
+        },
+        {
+          "text": "absolute",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "effects have “steps”) "
+        }
+      ],
+      [
+        {
+          "text": "What this means is that on MA, effects (and all of the settings that change an effects look) "
+        }
+      ],
+      [
+        {
+          "text": "are additional values that belong to each attribute within a fixture or channel, just like the "
+        }
+      ],
+      [
+        {
+          "text": "values for RGB, Pan + Tilt, Dimmer, etc.   "
+        }
+      ],
+      [
+        {
+          "text": "In the "
+        },
+        {
+          "text": "Fixture Sheet",
+          "color": "ma2"
+        },
+        {
+          "text": ", there is a layer view that you can select for “"
+        },
+        {
+          "text": "Effects",
+          "color": "ma2"
+        },
+        {
+          "text": "” (Purple colored "
+        }
+      ],
+      [
+        {
+          "text": "tabs on the bottom).  This changes the view to show all of the values for effects for those "
+        }
+      ],
+      [
+        {
+          "text": "fixture attributes.   "
+        }
+      ],
+      [
+        {
+          "text": "This is ultimately where all effect information is applied and stored, "
+        },
+        {
+          "text": "just like any other "
+        }
+      ],
+      [
+        {
+          "text": "attribute value such as intensity or RGB values.   "
+        }
+      ],
+      [
+        {
+          "text": "On "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ", effects are separate “programs” that contain all of the settings to make the effect.  "
+        }
+      ],
+      [
+        {
+          "text": "The effect is then applied "
+        },
+        {
+          "text": "to",
+          "bold": true
+        },
+        {
+          "text": " channels, and from that point on that effect program is "
+        }
+      ],
+      [
+        {
+          "text": "controlling that channel’s parameters as an external entity.   "
+        }
+      ],
+      [
+        {
+          "text": "The way that I like to think about it is "
+        },
+        {
+          "text": "MA",
+          "color": "ma2"
+        },
+        {
+          "text": " effects run from within the channels themselves - "
+        }
+      ],
+      [
+        {
+          "text": "you can make a single channel flash just simply by manipulating the various effect values on "
+        }
+      ],
+      [
+        {
+          "text": "the encoders, without ever calling up an effect #. All the effect values are part of the "
+        }
+      ],
+      [
+        {
+          "text": "channels attributes.   "
+        }
+      ],
+      [
+        {
+          "text": "Whereas in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ", an effect is external program that is then applied TO a channel’s attributes.   "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "24"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Non-Similar Commands & Syntax - Important commands on MA2",
+    "page": 25,
+    "lines": []
+  },
+  {
+    "title": "BLIND & PREVIEW",
+    "page": 25,
+    "lines": [
+      [
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " has several “Blind” modes called "
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "BlindEdit",
+          "color": "ma2"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Preview",
+          "color": "ma2"
+        },
+        {
+          "text": ". "
+        }
+      ],
+      [
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": " is not exactly the same as in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": ". The equivalent of "
+        },
+        {
+          "text": "Eos Blind",
+          "color": "eos"
+        },
+        {
+          "text": " is a combination of "
+        }
+      ],
+      [
+        {
+          "text": "Preview",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "BlindEdit",
+          "color": "ma2"
+        },
+        {
+          "text": ", depending on what type of target you want to view. "
+        }
+      ],
+      [
+        {
+          "text": "Preview",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "Blind",
+          "color": "eos"
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "Cues",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "BlindEdit",
+          "color": "ma2"
+        },
+        {
+          "text": " = "
+        },
+        {
+          "text": "Blind",
+          "color": "eos"
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "Presets",
+          "color": "eos"
+        },
+        {
+          "text": " and other record targets "
+        }
+      ],
+      [
+        {
+          "text": "Regular "
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": " (Press & release Blind key) utilizes the same programmer as in live, "
+        },
+        {
+          "text": "which ",
+          "bold": true
+        }
+      ],
+      [
+        {
+          "text": "means",
+          "bold": true
+        },
+        {
+          "text": " that anything you may have in your programmer in live will get knocked out when "
+        }
+      ],
+      [
+        {
+          "text": "you enter standard "
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": " mode.   "
+        }
+      ],
+      [
+        {
+          "text": "BlindEdit ",
+          "color": "ma2"
+        },
+        {
+          "text": "(Press & hold Blind key) is a separate Blind programmer, meaning live "
+        }
+      ],
+      [
+        {
+          "text": "programmer values will remain.  In general, I always prefer using "
+        },
+        {
+          "text": "BlindEdit",
+          "color": "ma2"
+        },
+        {
+          "text": ", as it is much "
+        }
+      ],
+      [
+        {
+          "text": "more similar to Eos blind.   "
+        }
+      ],
+      [
+        {
+          "text": "By default on "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": ", any editing of values in "
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Preview",
+          "color": "ma2"
+        },
+        {
+          "text": " requires an "
+        },
+        {
+          "text": "Update",
+          "color": "ma2"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Store",
+          "color": "ma2"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "command to complete the process.  ("
+        },
+        {
+          "text": "Preview",
+          "color": "ma2"
+        },
+        {
+          "text": " has an option for Auto-Update) "
+        }
+      ],
+      [
+        {
+          "text": "Whereas any changes or edits made in "
+        },
+        {
+          "text": "Eos Blind",
+          "color": "eos"
+        },
+        {
+          "text": " are automatic and immediate.  "
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ],
+      [
+        {
+          "text": "EDIT "
+        }
+      ],
+      [
+        {
+          "text": "Edit ",
+          "color": "ma2"
+        },
+        {
+          "text": "is a very common action command for editing and updating contents of almost any "
+        }
+      ],
+      [
+        {
+          "text": "kind of target or object, such as "
+        },
+        {
+          "text": "cues, presets, macros, etc. ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "i.e. “Edit Macro 23” , “Edit Cue 4” , “Edit Preset 2.9” ",
+          "color": "ma2"
+        }
+      ],
+      [
+        {
+          "text": "\"Edit [Record Target] \"",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "is partially similar to going into Eos "
+        },
+        {
+          "text": "Blind",
+          "color": "eos"
+        },
+        {
+          "text": " and viewing the contents "
+        }
+      ],
+      [
+        {
+          "text": "of objects "
+        },
+        {
+          "text": "(cues, palettes, presets).",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "However, while "
+        },
+        {
+          "text": "Edit",
+          "color": "ma2"
+        },
+        {
+          "text": " can be used in MA2 "
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": ", it also works in the "
+        },
+        {
+          "text": "Live Programmer",
+          "color": "ma2"
+        },
+        {
+          "text": ".  "
+        }
+      ],
+      [
+        {
+          "text": "Meaning that “"
+        },
+        {
+          "text": "Edit Preset 2.9",
+          "color": "ma2"
+        },
+        {
+          "text": "” not in Blind will call all the contents of Positions Preset 9 into "
+        }
+      ],
+      [
+        {
+          "text": "the Live Programmer, sending live data to all DMX outputs.  From here you can easily make "
+        }
+      ],
+      [
+        {
+          "text": "changes, then press the flashing "
+        },
+        {
+          "text": "Update",
+          "color": "ma2"
+        },
+        {
+          "text": " button to update all changed data to that Preset. "
+        }
+      ],
+      [
+        {
+          "text": "Edit",
+          "color": "ma2"
+        },
+        {
+          "text": " can make quick work of updating presets. "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "25"
+        }
+      ],
+      [
+        {
+          "text": "Edit",
+          "color": "ma2"
+        },
+        {
+          "text": " is also a common command for many other objects that don’t involve attribute data, "
+        }
+      ],
+      [
+        {
+          "text": "such as Macros, or even the Patch of a fixture i.e “"
+        },
+        {
+          "text": "Edit Fixture 201",
+          "color": "ma2"
+        },
+        {
+          "text": "” opens window popup "
+        }
+      ],
+      [
+        {
+          "text": "showing patch info for Fixture 201 "
+        }
+      ],
+      [
+        {
+          "text": "Edit",
+          "color": "ma2"
+        },
+        {
+          "text": " can also be used the same way in MA2 "
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "BlindEdit",
+          "color": "ma2"
+        },
+        {
+          "text": ", which will NOT send to the "
+        }
+      ],
+      [
+        {
+          "text": "Live DMX output.  See the section on “"
+        },
+        {
+          "text": "Blind",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ],
+      [
+        {
+          "text": "ASSIGN "
+        }
+      ],
+      [
+        {
+          "text": "Assign",
+          "color": "ma2"
+        },
+        {
+          "text": " - no simple Eos equivalent.  But is a common action-command to change "
+        }
+      ],
+      [
+        {
+          "text": "parameters of objects, as well as Map objects to layouts or physical buttons.  Can: "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Assign Cues/Sequences to Executors "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Change Timing of Cues, as well as other Cue options (MIB, etc.) "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Assign Macros or Views to specific buttons or soft keys "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Access or modify many options for most object and targets "
+        }
+      ],
+      [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Assign executor 1.14",
+          "color": "ma2"
+        },
+        {
+          "text": "\" opens Executor options.   "
+        }
+      ],
+      [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Assign Macro 1 At Viewbutton 1.1",
+          "color": "ma2"
+        },
+        {
+          "text": "\".  "
+        }
+      ],
+      [
+        {
+          "text": "\""
+        },
+        {
+          "text": "Assign Sequence 12 At Executor 1.1",
+          "color": "ma2"
+        },
+        {
+          "text": "\" = “"
+        },
+        {
+          "text": "Fader 1/1 ",
+          "color": "eos"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Mapped To",
+          "color": "eos"
+        },
+        {
+          "text": "}"
+        },
+        {
+          "text": " Cue 12/",
+          "color": "eos"
+        },
+        {
+          "text": "“  "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Assign Cue 12 ",
+          "color": "ma2"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Time",
+          "color": "ma2"
+        },
+        {
+          "text": "}"
+        },
+        {
+          "text": " 2.5",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Cue 12 Time 2.5",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "List of many possible attribute options using Assign: "
+        }
+      ],
+      [
+        {
+          "text": "https://support.actlighting.com/knowledgeBase/11662799 "
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ],
+      [
+        {
+          "text": "STATUS "
+        }
+      ],
+      [
+        {
+          "text": "Status",
+          "color": "ma2"
+        },
+        {
+          "text": " is a term/command used in various instances to include tracked values.   "
+        }
+      ],
+      [
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": " by default, when pulling data or copying data from other "
+        },
+        {
+          "text": "Cues",
+          "color": "ma2"
+        },
+        {
+          "text": ", will only look at hard "
+        }
+      ],
+      [
+        {
+          "text": "stored values.  It will "
+        },
+        {
+          "text": "NOT",
+          "bold": true
+        },
+        {
+          "text": " include any tracked values unless the "
+        },
+        {
+          "text": "/status",
+          "color": "ma2"
+        },
+        {
+          "text": " keyword is included "
+        }
+      ],
+      [
+        {
+          "text": "in the command. "
+        }
+      ],
+      [
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": " by default will always include both hard values and tracked values in any "
+        },
+        {
+          "text": "Recall From",
+          "color": "eos"
+        },
+        {
+          "text": " or "
+        }
+      ],
+      [
+        {
+          "text": "Copy To",
+          "color": "eos"
+        },
+        {
+          "text": " command. "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Fixture 203 At /status Cue 34",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        },
+        {
+          "text": "truly",
+          "bold": true
+        },
+        {
+          "text": " = “"
+        },
+        {
+          "text": "Chan 203 Recall From Cue 34",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "“"
+        },
+        {
+          "text": "Copy Cue 4 At Cue 10 /status",
+          "color": "ma2"
+        },
+        {
+          "text": "” "
+        },
+        {
+          "text": "truly",
+          "bold": true
+        },
+        {
+          "text": " = “"
+        },
+        {
+          "text": "Cue 4 Copy To Cue 10",
+          "color": "eos"
+        },
+        {
+          "text": "” "
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ],
+      [
+        {
+          "text": "There is no such thing as a \""
+        },
+        {
+          "text": "Submaster",
+          "color": "eos"
+        },
+        {
+          "text": "\" in MA2.  Only "
+        },
+        {
+          "text": "Sequences",
+          "color": "ma2"
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "cue lists",
+          "color": "eos"
+        },
+        {
+          "text": " in Eos terms). To "
+        }
+      ],
+      [
+        {
+          "text": "create the equivalent of a \""
+        },
+        {
+          "text": "Submaster",
+          "color": "eos"
+        },
+        {
+          "text": "\" you simply Store a "
+        },
+        {
+          "text": "Sequence",
+          "color": "ma2"
+        },
+        {
+          "text": " with one "
+        },
+        {
+          "text": "Cue",
+          "color": "ma2"
+        },
+        {
+          "text": ".   "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "26"
+        }
+      ],
+      [
+        {
+          "text": "—————————————————— "
+        }
+      ],
+      [
+        {
+          "text": "There isn’t really a way to \""
+        },
+        {
+          "text": "Select Last",
+          "color": "eos"
+        },
+        {
+          "text": "” in MA2.  But you’re less likely to need such a "
+        }
+      ],
+      [
+        {
+          "text": "command because MA2 keeps your channel selection until you tell it not to.  So you’re less "
+        }
+      ],
+      [
+        {
+          "text": "likely to lose your channel selection accidentally. "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "27"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "EXECUTOR/FADER OPTIONS",
+    "page": 28,
+    "lines": [
+      [
+        {
+          "text": "Accessed by Command “"
+        },
+        {
+          "text": "Assign Executor #.#",
+          "color": "ma2"
+        },
+        {
+          "text": "” or tapping on top title bar of executor label "
+        }
+      ],
+      [
+        {
+          "text": "i.e. “"
+        },
+        {
+          "text": "Assign Executor #.#",
+          "color": "ma2"
+        },
+        {
+          "text": "” = “"
+        },
+        {
+          "text": "Sub # ",
+          "color": "eos"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Properties",
+          "color": "eos"
+        },
+        {
+          "text": "}” or "
+        },
+        {
+          "text": "“Cue #/ ",
+          "color": "eos"
+        },
+        {
+          "text": "{"
+        },
+        {
+          "text": "Properties",
+          "color": "eos"
+        },
+        {
+          "text": "}” "
+        }
+      ],
+      [
+        {
+          "text": "Here you can find a lot of options for things like: "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Tracking vs cue Only "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Priorities "
+        }
+      ],
+      [
+        {
+          "text": "-"
+        },
+        {
+          "text": " ",
+          "color": "ma2"
+        },
+        {
+          "text": "MIB",
+          "color": "ma2"
+        },
+        {
+          "text": " settings ("
+        },
+        {
+          "text": "Marking",
+          "color": "eos"
+        },
+        {
+          "text": ") "
+        }
+      ],
+      [
+        {
+          "text": "Flash",
+          "color": "ma2"
+        },
+        {
+          "text": " button is like your standard "
+        },
+        {
+          "text": "bump",
+          "color": "eos"
+        },
+        {
+          "text": " button. "
+        }
+      ],
+      [
+        {
+          "text": "Swop",
+          "color": "ma2"
+        },
+        {
+          "text": " is like \""
+        },
+        {
+          "text": "Solo",
+          "color": "eos"
+        },
+        {
+          "text": "\" (as of Eos v2.5) "
+        }
+      ],
+      [
+        {
+          "text": "Black",
+          "color": "ma2"
+        },
+        {
+          "text": " is like a "
+        },
+        {
+          "text": "Blackout",
+          "color": "eos"
+        },
+        {
+          "text": " button for that specific executor "
+        }
+      ],
+      [
+        {
+          "text": "Off on Overwritten",
+          "color": "ma2"
+        },
+        {
+          "text": " is essentially the same as the "
+        },
+        {
+          "text": "Off on Stomp ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Temp Fader",
+          "color": "ma2"
+        },
+        {
+          "text": " will make an Executor’s fader behave much like a default"
+        },
+        {
+          "text": " Submaster ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "In that all parameters will fade with the fader, as opposed to just intensity parameters. "
+        }
+      ],
+      [
+        {
+          "text": "Group master",
+          "color": "ma2"
+        },
+        {
+          "text": " is like an"
+        },
+        {
+          "text": " Inhibitive Submaster ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Chaser ",
+          "color": "ma2"
+        },
+        {
+          "text": "turns the "
+        },
+        {
+          "text": "Sequence/Executor",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "into something sort of resembling an "
+        },
+        {
+          "text": "Absolute or ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "Step-based effect.  ",
+          "color": "eos"
+        },
+        {
+          "text": "When "
+        },
+        {
+          "text": "Chaser",
+          "color": "ma2"
+        },
+        {
+          "text": " is enabled, all of the cues in the sequence automatically "
+        }
+      ],
+      [
+        {
+          "text": "loop based on the cue’s time.  The Cues essentially become the steps of the effect. "
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        }
+      ],
+      [
+        {
+          "text": "MA2 Priority",
+          "color": "ma2"
+        },
+        {
+          "text": " ",
+          "color": "eos"
+        },
+        {
+          "text": "is similar to"
+        },
+        {
+          "text": " Eos Priority",
+          "color": "eos"
+        },
+        {
+          "text": ", but MA2 Priority also includes LTP/HTP behavior as "
+        }
+      ],
+      [
+        {
+          "text": "part of different priorities, whereas Eos has a separate option for LTP vs HTP. "
+        }
+      ],
+      [
+        {
+          "text": "***",
+          "bold": true
+        },
+        {
+          "text": " It is important to note that all "
+        },
+        {
+          "text": "MA2 executors",
+          "color": "ma2"
+        },
+        {
+          "text": " default to LTP, whereas all "
+        },
+        {
+          "text": "Eos Faders",
+          "color": "eos"
+        },
+        {
+          "text": " "
+        }
+      ],
+      [
+        {
+          "text": "default to HTP.  In "
+        },
+        {
+          "text": "MA2",
+          "color": "ma2"
+        },
+        {
+          "text": ", the LTP/HTP option is within the "
+        },
+        {
+          "text": "Priority",
+          "color": "ma2"
+        },
+        {
+          "text": " selection (there is no "
+        }
+      ],
+      [
+        {
+          "text": "specific separate LTP/HTP option, as there is in "
+        },
+        {
+          "text": "Eos",
+          "color": "eos"
+        },
+        {
+          "text": "). "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "28"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "External Resources",
+    "page": 29,
+    "lines": [
+      [
+        {
+          "text": "https://support.actlighting.com/knowledgeBase "
+        }
+      ],
+      [
+        {
+          "text": "MA2 for Eos Programmers"
+        }
+      ],
+      [
+        {
+          "text": "29"
+        }
+      ]
+    ]
+  }
+]

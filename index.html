@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>grandMA2 for Eos Programmers</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">
+    <span class="theme-icon">☀️</span>
+  </button>
+
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h2>Contents</h2>
+    </div>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search..." aria-label="Search guide content">
+    </div>
+    <ul class="toc-list" id="tocList"></ul>
+  </nav>
+
+  <button class="menu-toggle" id="menuToggle" aria-label="Toggle table of contents">☰</button>
+
+  <main class="content" id="content">
+    <header class="hero">
+      <h1><span class="ma2">grandMA2</span> for <span class="eos">Eos</span> Programmers</h1>
+      <p class="subtitle">and vice versa</p>
+      <p class="tagline">A guide for whether you're in a pinch or just want to learn&hellip;</p>
+      <p class="author">By Brian Abbott &mdash; <a href="https://www.brianabbottlight.com" target="_blank" rel="noopener">brianabbottlight.com</a></p>
+      <p class="version">version 1.0.1 &bull; May 2018</p>
+    </header>
+    <div id="sections"></div>
+    <div id="searchResults" class="search-results" hidden>
+      <h2>Search Results</h2>
+      <div id="searchResultsList"></div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
