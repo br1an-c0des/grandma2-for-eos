@@ -220,6 +220,37 @@ a:hover {
   background: var(--eos-dim);
 }
 
+/* ===== Sidebar Footer (PDF download) ===== */
+.sidebar-footer {
+  padding: 12px 20px 20px;
+  border-top: 1px solid var(--border);
+}
+
+.pdf-download {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 12px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color var(--transition), color var(--transition), background var(--transition);
+}
+.pdf-download:hover {
+  border-color: var(--ma2);
+  color: var(--ma2);
+  text-decoration: none;
+}
+.pdf-download .pdf-icon {
+  font-size: 14px;
+  line-height: 1;
+}
+
 /* ===== Menu Toggle (mobile) ===== */
 .menu-toggle {
   display: none;
